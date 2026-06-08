@@ -29,7 +29,8 @@ export default async function AdminDashboard() {
 
   // Count overdue (deadline passed, not completed)
   const overdue = allOutletProgress?.filter(po => {
-    const deadline = po.plan?.deadline
+    const plan = po.plan as { deadline?: string } | null
+    const deadline = plan?.deadline
     return deadline && differenceInDays(new Date(), new Date(deadline)) > 0
   }).length ?? 0
 
