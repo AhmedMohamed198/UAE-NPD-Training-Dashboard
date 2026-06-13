@@ -93,11 +93,14 @@
             spreadsheetUrl:''};
         }
         case 'getMealsSection':
-        case 'getMealsBhData':
+        case 'getMealsBhData':{
+          var{data,error}=await _sb_.from('section_data').select('data').eq('mp_key',args[0]||SUPABASE_MP_).eq('section','meals').single();
+          if(error&&error.code!=='PGRST116')throw new Error(error.message); return data?.data??null;
+        }
         case 'getBhSection':
         case 'getBhData':{
           var{data,error}=await _sb_.from('section_data').select('data').eq('mp_key',args[0]||SUPABASE_MP_).eq('section','bh').single();
-          if(error)throw new Error(error.message); return data?.data??null;
+          if(error&&error.code!=='PGRST116')throw new Error(error.message); return data?.data??null;
         }
         case 'getQualitySection':
         case 'getQualityData':{
