@@ -1,0 +1,119 @@
+{
+  "dashboard": {
+    "meals": [
+      {
+        "name": "Kunafa Tiramisu",
+        "chef": "Mohamad fathy",
+        "diet": "",
+        "type": "",
+        "status": "Idea",
+        "costPct": null,
+        "fhs": null,
+        "moreThan3x": false,
+        "workflowPct": 0,
+        "ideation": false,
+        "creation": false,
+        "dashboarding": false,
+        "mpTasting": false,
+        "npdTasting": false,
+        "approving": false,
+        "note": "",
+        "photoUrl": ""
+      },
+      {
+        "name": "Spaghetti with Gorgonzola Sauce",
+        "chef": "Chandan kumar",
+        "diet": "Chef's Pick",
+        "type": "Lunch/Dinner",
+        "status": "Launched",
+        "costPct": 0.2242,
+        "fhs": 0.55,
+        "moreThan3x": false,
+        "workflowPct": 17,
+        "ideation": false,
+        "creation": false,
+        "dashboarding": false,
+        "mpTasting": true,
+        "npdTasting": false,
+        "approving": false,
+        "note": "Meal Launched",
+        "photoUrl": ""
+      },
+      {
+        "name": "Arabic Spiced Scrambled Eggs",
+        "chef": "",
+        "diet": "",
+        "type": "Breakfast",
+        "status": "Idea",
+        "costPct": null,
+        "fhs": null,
+        "moreThan3x": false,
+        "workflowPct": 0,
+        "ideation": false,
+        "creation": false,
+        "dashboarding": false,
+        "mpTasting": false,
+        "npdTasting": false,
+        "approving": false,
+        "note": "",
+        "photoUrl": ""
+      }
+    ],
+    "totals": {
+      "total": 3,
+      "launched": 1,
+      "notLaunched": 0,
+      "rework": 0,
+      "idea": 2
+    },
+    "filters": {
+      "chefs": [
+        "Chandan kumar",
+        "Mohamad fathy"
+      ],
+      "diets": [
+        "Chef's Pick"
+      ],
+      "types": [
+        "Breakfast",
+        "Lunch/Dinner"
+      ],
+      "statuses": [
+        "Idea",
+        "Launched"
+      ]
+    }
+  },
+  "performers": {
+    "bestChef": {
+      "name": "Mohamad fathy",
+      "count": 1
+    },
+    "highestCost": {
+      "name": "Spaghetti with Gorgonzola Sauce",
+      "value": 22.42
+    },
+    "bestFhs": {
+      "name": "Spaghetti with Gorgonzola Sauce",
+      "value": 55.0
+    },
+    "mostReworks": null
+  },
+  "meta": {
+    "chefs": [
+      "Chandan kumar",
+      "Mohamad fathy"
+    ],
+    "diets": [
+      "Chef's Pick"
+    ],
+    "types": [
+      "Breakfast",
+      "Lunch/Dinner"
+    ],
+    "statuses": [
+      "Idea",
+      "Launched"
+    ]
+  }
+}

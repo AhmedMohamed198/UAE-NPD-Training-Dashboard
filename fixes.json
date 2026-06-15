@@ -1,0 +1,317 @@
+{
+  "fixes": {
+    "items": [
+      {
+        "id": "FIX-CSZZB2HZ",
+        "date": "2026-06-05",
+        "type": "Slack",
+        "name": "Shawarma Chicken",
+        "issueDetails": "For 1 batch plz make seven spice powder to 3 grams",
+        "status": "Done",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "[Via Slack Workflow | MP: KSA - Jeddah]\nLink: Shawarma Chicken",
+        "reportedBy": "Chandan kumar (Slack)",
+        "done": true,
+        "updatedAt": "2026-06-07"
+      },
+      {
+        "id": "FIX-YYQ97PW3",
+        "date": "2026-06-07",
+        "type": "Slack",
+        "name": "Phyllo With meat",
+        "issueDetails": "Plz add butter 130 grams in ingredients and for 1 batch",
+        "status": "Done",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "[Via Slack Workflow | MP: KSA - Jeddah]\nLink: Phyllo with meat",
+        "reportedBy": "Chandan kumar (Slack)",
+        "done": true,
+        "updatedAt": "2026-06-09"
+      },
+      {
+        "id": "FIX-SC2KD5RS",
+        "date": "2026-06-07",
+        "type": "Slack",
+        "name": "Balsamic Chicken",
+        "issueDetails": "The raw chicken weight is 1706 g, and the cooked weight is 850 g. Kindly update the CR7 to 2.007.",
+        "status": "Done",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "[Via Slack Workflow | MP: KSA - Jeddah]\nLink: Balsamic Chicken\nSlack: https://calohq.slack.com/archives/C07EFRRGQGJ/p1780836083999939",
+        "reportedBy": "Chandan kumar (Slack)",
+        "done": true,
+        "updatedAt": "2026-06-08"
+      },
+      {
+        "id": "FIX-8S52ZLNG",
+        "date": "2026-06-07",
+        "type": "Slack",
+        "name": "Cayenne Chicken",
+        "issueDetails": "The raw chicken weight is 1650 g, and the cooked weight is 850 g. Kindly update the CR7 to 1.941 .",
+        "status": "Done",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "[Via Slack Workflow | MP: KSA - Jeddah]\nLink: Cayenne Chicken\nSlack: https://calohq.slack.com/archives/C07EFRRGQGJ/p1780836269132489",
+        "reportedBy": "Chandan kumar (Slack)",
+        "done": true,
+        "updatedAt": "2026-06-08"
+      },
+      {
+        "id": "FIX-E2UAEM9T",
+        "date": "2026-06-09",
+        "type": "Slack",
+        "name": "Charred Chicken",
+        "issueDetails": "The raw chicken weight is 1,626 g and the cooked weight is 1,000 g. Please update the CR7 factor to 1.626.",
+        "status": "Done",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "[Via Slack Workflow | MP: KSA - Jeddah]\nLink: Charred Chicken\nSlack: https://calohq.slack.com/archives/C07EFRRGQGJ/p1780991616555629",
+        "reportedBy": "Chandan kumar (Slack)",
+        "done": true,
+        "updatedAt": "2026-06-11"
+      },
+      {
+        "id": "FIX-XTFPZ8AE",
+        "date": "2026-06-09",
+        "type": "Slack",
+        "name": "Chicken Satay",
+        "issueDetails": "The raw chicken weight is 1,866 g and the cooked weight is 1,000 g. Please update the CR7 factor to 1.86",
+        "status": "Done",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "[Via Slack Workflow | MP: KSA - Jeddah]\nLink: Chicken Satay\nSlack: https://calohq.slack.com/archives/C07EFRRGQGJ/p1780991747827609",
+        "reportedBy": "Chandan kumar (Slack)",
+        "done": true,
+        "updatedAt": "2026-06-11"
+      },
+      {
+        "id": "FIX-3DCQZ5K9",
+        "date": "2026-06-09",
+        "type": "Slack",
+        "name": "Chili Lemon Chicken Cubes",
+        "issueDetails": "The raw chicken weight is 5468 g and the cooked weight is 4200 g. Please update the CR7 factor to 1.301",
+        "status": "Done",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "[Via Slack Workflow | MP: KSA - Jeddah]\nLink: Chili Lemon Chicken Cubes\nSlack: https://calohq.slack.com/archives/C07EFRRGQGJ/p1780991855487509",
+        "reportedBy": "Chandan kumar (Slack)",
+        "done": true,
+        "updatedAt": "2026-06-14"
+      },
+      {
+        "id": "FIX-FCG7KHF5",
+        "date": "2026-06-09",
+        "type": "Slack",
+        "name": "Vanilla custard",
+        "issueDetails": "For the Vanilla Custard recipe, please update the ingredients as follows: * Cornflour: Increase to 32 g * Egg Yolk: Increase to 65 g * Vanilla Powder: Increase to 4 g Additionally, the ingredient list currently mentions Vanilla Extract. Please change it to Vanilla Powder.",
+        "status": "Done",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "[Via Slack Workflow | MP: KSA - Jeddah]\nLink: Vanilla custard\nSlack: https://calohq.slack.com/archives/C07EFRRGQGJ/p1781017806827929",
+        "reportedBy": "Chandan kumar (Slack)",
+        "done": true,
+        "updatedAt": "2026-06-11"
+      },
+      {
+        "id": "FIX-9D7ZYJDY",
+        "date": "2026-06-09",
+        "type": "Slack",
+        "name": "Pastry Cream",
+        "issueDetails": "For the Pastry Cream recipe, please update the ingredients as follows: 1 batch * Cornflour: Increase to 44 g * Egg Yolk: Increase to 109 g * Vanilla Powder: Increase to 0.80 g",
+        "status": "Done",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "[Via Slack Workflow | MP: KSA - Jeddah]\nLink: Pastry Cream\nSlack: https://calohq.slack.com/archives/C07EFRRGQGJ/p1781018020213789",
+        "reportedBy": "Chandan kumar (Slack)",
+        "done": true,
+        "updatedAt": "2026-06-11"
+      },
+      {
+        "id": "FIX-AEGJAJ5X",
+        "date": "2026-06-11",
+        "type": "Slack",
+        "name": "Pulled Chicken",
+        "issueDetails": "Please update the Pulled Chicken Chicken Mix guideline by removing Tomato (Peeled) from the recipe and adding Water \u2013 56g instead.",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "[Via Slack Workflow | MP: KSA - Jeddah]\nLink: Pulled Chicken\nSlack: https://calohq.slack.com/archives/C07EFRRGQGJ/p1781191940087599",
+        "reportedBy": "Chandan kumar (Slack)",
+        "done": false,
+        "updatedAt": "2026-06-11"
+      },
+      {
+        "id": "FIX-G7GA3L6F",
+        "date": "2026-06-11",
+        "type": "Slack",
+        "name": "Chicken Tikka",
+        "issueDetails": "For Chicken Tikka, the raw weight was 6,716g and the cooked weight was 3,300g. Please update the CR7 factor to 2.035",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "[Via Slack Workflow | MP: KSA - Jeddah]\nLink: Chicken tikka\nSlack: https://calohq.slack.com/archives/C07EFRRGQGJ/p1781192704505519",
+        "reportedBy": "Chandan kumar (Slack)",
+        "done": false,
+        "updatedAt": "2026-06-11"
+      },
+      {
+        "id": "FIX-NFHNYS3L",
+        "date": "2026-06-11",
+        "type": "Slack",
+        "name": "Chicken Tuscan",
+        "issueDetails": "For Chicken Tuscan , the raw weight 3478 g and the cooked weight was 2400 g . Please update the CR7 factor to 1.449",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "[Via Slack Workflow | MP: KSA - Jeddah]\nLink: Chicken Tuscan\nSlack: https://calohq.slack.com/archives/C07EFRRGQGJ/p1781192937916649",
+        "reportedBy": "Chandan kumar (Slack)",
+        "done": false,
+        "updatedAt": "2026-06-11"
+      },
+      {
+        "id": "FIX-JWKPJC3C",
+        "date": "2026-06-11",
+        "type": "Slack",
+        "name": "Chili Lemon Chicken Strips",
+        "issueDetails": "For Chili Lemon Chicken Strips , the raw weight 5597g and the cooked weight was 3,200g . Please update the CR7 factor to 1.749",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "[Via Slack Workflow | MP: KSA - Jeddah]\nLink: Chili Chicken Strips\nSlack: https://calohq.slack.com/archives/C07EFRRGQGJ/p1781193213056539",
+        "reportedBy": "Chandan kumar (Slack)",
+        "done": false,
+        "updatedAt": "2026-06-11"
+      },
+      {
+        "id": "FIX-7KELRANL",
+        "date": "2026-06-14",
+        "type": "Slack",
+        "name": "Fajita Chicken",
+        "issueDetails": "For Fajita Chicken, the raw weight is 3657 g and the cooked weight is 2300 g. the CR7 factor should be updated to 1.59.",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "[Via Slack Workflow | MP: KSA - Jeddah]\nLink: Fajita Chicken\nSlack: https://calohq.slack.com/archives/C07EFRRGQGJ/p1781425764099049",
+        "reportedBy": "Chandan kumar (Slack)",
+        "done": false,
+        "updatedAt": "2026-06-14"
+      },
+      {
+        "id": "FIX-JEMD5GTB",
+        "date": "2026-06-14",
+        "type": "Slack",
+        "name": "Garlic Ginger Chicken",
+        "issueDetails": "For Garlic Ginger Chicken, the raw weight is 3584 g and the cooked weight is 2300 g. the CR7 factor should be updated to 1.55",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "[Via Slack Workflow | MP: KSA - Jeddah]\nLink: Garlic Ginger Chicken\nSlack: https://calohq.slack.com/archives/C07EFRRGQGJ/p1781425840569909",
+        "reportedBy": "Chandan kumar (Slack)",
+        "done": false,
+        "updatedAt": "2026-06-14"
+      },
+      {
+        "id": "FIX-NUVQF4PG",
+        "date": "2026-06-14",
+        "type": "Slack",
+        "name": "Italian Chicken Strips",
+        "issueDetails": "For Italian Chicken strips , the raw weight is 3502 g and the cooked weight is 2200 g. the CR7 factor should be updated to 1.591",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "[Via Slack Workflow | MP: KSA - Jeddah]\nLink: Italian Chicken Strips\nSlack: https://calohq.slack.com/archives/C07EFRRGQGJ/p1781425950451529",
+        "reportedBy": "Chandan kumar (Slack)",
+        "done": false,
+        "updatedAt": "2026-06-14"
+      },
+      {
+        "id": "FIX-QBRWYP8A",
+        "date": "2026-06-14",
+        "type": "Slack",
+        "name": "Mandi Chicken",
+        "issueDetails": "For Mandi Chicken the raw weight is 1883 g and the cooked weight is 950 g. the CR7 factor should be updated to 1.982",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "[Via Slack Workflow | MP: KSA - Jeddah]\nLink: Mandi Chicken\nSlack: https://calohq.slack.com/archives/C07EFRRGQGJ/p1781426024673329",
+        "reportedBy": "Chandan kumar (Slack)",
+        "done": false,
+        "updatedAt": "2026-06-14"
+      },
+      {
+        "id": "FIX-RBFNDXHD",
+        "date": "2026-06-14",
+        "type": "Slack",
+        "name": "Masala Chicken Strips",
+        "issueDetails": "For Masala Chicken strips , the raw weight is 4025 g and the cooked weight is 2200 g. the CR7 factor should be updated to 1.829.",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "[Via Slack Workflow | MP: KSA - Jeddah]\nLink: Masala chicken strips\nSlack: https://calohq.slack.com/archives/C07EFRRGQGJ/p1781426110483439",
+        "reportedBy": "Chandan kumar (Slack)",
+        "done": false,
+        "updatedAt": "2026-06-14"
+      },
+      {
+        "id": "FIX-74JFHQNE",
+        "date": "2026-06-14",
+        "type": "Slack",
+        "name": "Orange Chicken",
+        "issueDetails": "For Orange Chicken, the raw weight is 8998 g and the cooked weight is 3800 g. the CR7 factor should be updated to 2.366",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "[Via Slack Workflow | MP: KSA - Jeddah]\nLink: Orange Chicken\nSlack: https://calohq.slack.com/archives/C07EFRRGQGJ/p1781432888517069",
+        "reportedBy": "Chandan kumar (Slack)",
+        "done": false,
+        "updatedAt": "2026-06-14"
+      },
+      {
+        "id": "FIX-7LCD9EES",
+        "date": "2026-06-14",
+        "type": "Slack",
+        "name": "Orange and pepper Chicken",
+        "issueDetails": "For orange and pepper chicken , the raw weight is 3401 g and the cooked weight is 2100 g. the CR7 factor should be updated to 1.619",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "[Via Slack Workflow | MP: KSA - Jeddah]\nLink: Orange and pepper Chicken\nSlack: https://calohq.slack.com/archives/C07EFRRGQGJ/p1781433011875839",
+        "reportedBy": "Chandan kumar (Slack)",
+        "done": false,
+        "updatedAt": "2026-06-14"
+      }
+    ],
+    "totals": {
+      "total": 20,
+      "done": 9,
+      "pending": 11,
+      "inProgress": 0,
+      "donePct": 45,
+      "byType": {
+        "Slack": 20
+      },
+      "byPriority": {
+        "Low": 20
+      },
+      "byStatus": {
+        "Done": 9,
+        "Pending": 11
+      }
+    },
+    "filters": {
+      "types": [
+        "Slack"
+      ],
+      "statuses": [
+        "Done",
+        "Pending"
+      ],
+      "priorities": [
+        "Low"
+      ],
+      "assignees": []
+    }
+  },
+  "meta": {}
+}
