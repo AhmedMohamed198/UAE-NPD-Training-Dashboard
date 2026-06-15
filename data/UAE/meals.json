@@ -1,5 +1,0 @@
-{
-  "dashboard": { "meals": [], "totals": {}, "filters": {} },
-  "performers": { "bestChef": null, "highestCost": null, "bestFhs": null, "mostReworks": null },
-  "meta": { "chefs": [], "diets": [], "types": [], "statuses": [] }
-}
