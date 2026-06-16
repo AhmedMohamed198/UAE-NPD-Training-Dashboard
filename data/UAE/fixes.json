@@ -2,6 +2,21 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-51F79CB3",
+        "date": "2026-06-16",
+        "type": "Slack",
+        "name": "Level",
+        "issueDetails": "",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Source: Slack | https://slack.com/archives/C07EFRRGQGJ/p1781639372969959",
+        "reportedBy": "Meal Fixes Workflow",
+        "done": false,
+        "slackTs": "1781639372.969959",
+        "updatedAt": "2026-06-16"
+      },
+      {
         "id": "FIX-9FB5CAC6",
         "date": "2026-06-16",
         "type": "Slack",
@@ -348,21 +363,21 @@
       }
     ],
     "totals": {
-      "total": 23,
+      "total": 24,
       "done": 11,
-      "pending": 12,
+      "pending": 13,
       "inProgress": 0,
-      "donePct": 48,
+      "donePct": 46,
       "byType": {
-        "Slack": 22,
+        "Slack": 23,
         "Recipe": 1
       },
       "byPriority": {
-        "Low": 22,
+        "Low": 23,
         "High": 1
       },
       "byStatus": {
-        "Pending": 12,
+        "Pending": 13,
         "Done": 11
       }
     },
