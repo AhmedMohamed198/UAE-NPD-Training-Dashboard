@@ -1,1 +1,238 @@
-{"fixes": {"items": [{"row": 1, "mp": "UAE", "name": "Spinach and Pepper Egg Muffin", "date": "2026-05-18", "type": "Recipe", "issue": "The recipe contains whipping cream which was not part of it", "status": "Done", "assignedTo": "Ahmed Mohamed", "priority": "High", "notes": "", "reportedBy": "a.mohamed@calo.app", "updatedAt": "2026-06-04T22:19:56.113Z", "photoUrl": ""}, {"row": 2, "mp": "UAE", "name": "Egg Whites Shakshuka Scramble", "date": "2026-06-05", "type": "Slack", "issue": "Please reduce the salt to 4.5 grams and the garlic to 4.5 grams", "status": "Done", "assignedTo": "Ahmed Mohamed", "priority": "Low", "notes": "[Via Slack Workflow | MP: UAE] Link: https://dashboard.calo.app/food-components/3e697e1a-f023-493a-aa67-7db6b945219b", "reportedBy": "Ahmed Mohamed (Slack)", "updatedAt": "2026-06-07T11:03:19.076Z", "photoUrl": ""}, {"row": 3, "mp": "UAE", "name": "Ultimate Cream Sauce", "date": "2026-06-05", "type": "Slack", "issue": "Please change the step 5 from Add the boiled potato, sour cream, milk, and Greek yogurt to a blender. to Add the boiled potato, sour cream, milk, and Greek yogurt to a blender and whipping cream.", "status": "Done", "assignedTo": "Ahmed Mohamed", "priority": "Low", "notes": "[Via Slack Workflow | MP: UAE] Link: https://dashboard.calo.app/food-components/66616425-0a8d-45cf-a58d-f4c8f27fbc7f", "reportedBy": "Ahmed Mohamed (Slack)", "updatedAt": "2026-06-07T11:09:35.929Z", "photoUrl": ""}, {"row": 4, "mp": "UAE", "name": "Smoky Honey BBQ Sauce", "date": "2026-06-05", "type": "Slack", "issue": "Please reduce the salt to 5 grams and the black pepper to 1.75", "status": "Done", "assignedTo": "Ahmed Mohamed", "priority": "Low", "notes": "[Via Slack Workflow | MP: UAE] Link: https://dashboard.calo.app/food-components/ae5ad10a-295e-4168-9e4a-64f1af4e8e63", "reportedBy": "Ahmed Mohamed (Slack)", "updatedAt": "2026-06-07T11:17:28.206Z", "photoUrl": ""}, {"row": 5, "mp": "UAE", "name": "Fish Singary Mix", "date": "2026-06-05", "type": "Slack", "issue": "Please reduce the salt to 3.75 grams", "status": "Done", "assignedTo": "Ahmed Mohamed", "priority": "Low", "notes": "[Via Slack Workflow | MP: UAE] Link: https://dashboard.calo.app/food-components/d2986433-2074-4a7f-a444-2957b2e1562a", "reportedBy": "Ahmed Mohamed (Slack)", "updatedAt": "2026-06-07T11:20:37.783Z", "photoUrl": ""}, {"row": 6, "mp": "UAE", "name": "Chipolata", "date": "2026-06-06", "type": "Slack", "issue": "Please add the raw weight per PC in the recipe method and the cooked weight Raw weight 50 grams and cooked weight 41 grams", "status": "Done", "assignedTo": "Ahmed Mohamed", "priority": "Low", "notes": "[Via Slack Workflow | MP: UAE] Link: https://dashboard.calo.app/food-components/4a005a3e-761e-4b6b-9722-7d658a8416e4", "reportedBy": "Ahmed Mohamed (Slack)", "updatedAt": "2026-06-08T07:55:54.716Z", "photoUrl": ""}, {"row": 7, "mp": "UAE", "name": "Parmesan Breaded Chicken Strips", "date": "2026-06-06", "type": "Slack", "issue": "Please change step 5,6,7 and 8 tagging to be in butchery not roasting", "status": "Done", "assignedTo": "Ahmed Mohamed", "priority": "Low", "notes": "[Via Slack Workflow | MP: UAE] Link: https://dashboard.calo.app/food-components/7892e3f8-957a-468a-b34d-843f7b3fbe84", "reportedBy": "Ahmed Mohamed (Slack)", "updatedAt": "2026-06-06T14:49:44.284Z", "photoUrl": ""}, {"row": 8, "mp": "UAE", "name": "Coconut Cream Cucumber Raita", "date": "2026-06-08", "type": "Slack", "issue": "Please reduce the cucumber to 200 grams and increase the coconut cream to 140 grams", "status": "Done", "assignedTo": "", "priority": "Low", "notes": "[Via Slack Workflow | MP: UAE] Link: https://dashboard.calo.app/food-components/1da61fa9-c19e-4405-98d3-bd2d4e75d4e4 Slack: https://calohq.slack.com/archives/C07EFRRGQGJ/p1780942362604379", "reportedBy": "Ahmed Mohamed (Slack)", "updatedAt": "2026-06-14T08:31:15.698Z", "photoUrl": ""}, {"row": 9, "mp": "UAE", "name": "Creamy Coconut Chicken", "date": "2026-06-10", "type": "Slack", "issue": "Please reduce the chili green fresh to 5 grams and the black pepper to 0.5 gram", "status": "Done", "assignedTo": "", "priority": "Low", "notes": "[Via Slack Workflow | MP: UAE] Link: https://dashboard.calo.app/food-components/8a78268f-5aef-471b-92ee-8e16f01a0b2b Slack: https://calohq.slack.com/archives/C07EFRRGQGJ/p1781098845638139", "reportedBy": "Ahmed Mohamed (Slack)", "updatedAt": "2026-06-11T13:38:51.328Z", "photoUrl": ""}, {"row": 10, "mp": "UAE", "name": "Chicken Biryani Stew", "date": "2026-06-10", "type": "Slack", "issue": "Please reduce the onion to 100 grams", "status": "Done", "assignedTo": "", "priority": "Low", "notes": "[Via Slack Workflow | MP: UAE] Link: https://dashboard.calo.app/food-components/01cef25a-d77a-4807-b6ed-2e65559681e1 Slack: https://calohq.slack.com/archives/C07EFRRGQGJ/p1781099071641269", "reportedBy": "Ahmed Mohamed (Slack)", "updatedAt": "2026-06-11T08:12:14.003Z", "photoUrl": ""}, {"row": 11, "mp": "UAE", "name": "Butter Masala Sauce", "date": "2026-06-13", "type": "Slack", "issue": "Please reduce Kashmiri chili powder to 3.5 grams", "status": "Done", "assignedTo": "", "priority": "Low", "notes": "[Via Slack Workflow | MP: UAE] Link: https://dashboard.calo.app/food-components/5b5008ad-b3f2-4425-9afe-be9fcae2650b Slack: https://calohq.slack.com/archives/C07EFRRGQGJ/p1781299843932919", "reportedBy": "Ahmed Mohamed (Slack)", "updatedAt": "2026-06-14T08:31:30.569Z", "photoUrl": ""}], "totals": {"total": 11, "done": 11, "pending": 0, "inProgress": 0, "donePct": 100, "byType": {"Recipe": 1, "Slack": 10}, "byPriority": {"High": 1, "Low": 10}, "byStatus": {"Done": 11}}, "filters": {"types": ["Recipe", "Slack"], "statuses": ["Done"], "priorities": ["High", "Low"], "assignees": ["Ahmed Mohamed"]}}, "meta": {"types": ["Recipe", "Slack"], "statuses": ["Done"], "priorities": ["High", "Low"], "assignedUsers": ["Ahmed Mohamed"]}}
+{
+  "fixes": {
+    "items": [
+      {
+        "id": "FIX-E2C363FE",
+        "date": "2026-06-16",
+        "type": "Slack",
+        "name": "Beef Julienne",
+        "issueDetails": "The recipe didn't mention the length of the strips",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://slack.com/archives/C06SH4R4QTF/p1781638785575539",
+        "reportedBy": "U045F6MSMK6",
+        "done": false,
+        "slackTs": "1781638785.575539",
+        "updatedAt": "2026-06-16"
+      },
+      {
+        "row": 1,
+        "mp": "UAE",
+        "name": "Spinach and Pepper Egg Muffin",
+        "date": "2026-05-18",
+        "type": "Recipe",
+        "issue": "The recipe contains whipping cream which was not part of it",
+        "status": "Done",
+        "assignedTo": "Ahmed Mohamed",
+        "priority": "High",
+        "notes": "",
+        "reportedBy": "a.mohamed@calo.app",
+        "updatedAt": "2026-06-04T22:19:56.113Z",
+        "photoUrl": ""
+      },
+      {
+        "row": 2,
+        "mp": "UAE",
+        "name": "Egg Whites Shakshuka Scramble",
+        "date": "2026-06-05",
+        "type": "Slack",
+        "issue": "Please reduce the salt to 4.5 grams and the garlic to 4.5 grams",
+        "status": "Done",
+        "assignedTo": "Ahmed Mohamed",
+        "priority": "Low",
+        "notes": "[Via Slack Workflow | MP: UAE] Link: https://dashboard.calo.app/food-components/3e697e1a-f023-493a-aa67-7db6b945219b",
+        "reportedBy": "Ahmed Mohamed (Slack)",
+        "updatedAt": "2026-06-07T11:03:19.076Z",
+        "photoUrl": ""
+      },
+      {
+        "row": 3,
+        "mp": "UAE",
+        "name": "Ultimate Cream Sauce",
+        "date": "2026-06-05",
+        "type": "Slack",
+        "issue": "Please change the step 5 from Add the boiled potato, sour cream, milk, and Greek yogurt to a blender. to Add the boiled potato, sour cream, milk, and Greek yogurt to a blender and whipping cream.",
+        "status": "Done",
+        "assignedTo": "Ahmed Mohamed",
+        "priority": "Low",
+        "notes": "[Via Slack Workflow | MP: UAE] Link: https://dashboard.calo.app/food-components/66616425-0a8d-45cf-a58d-f4c8f27fbc7f",
+        "reportedBy": "Ahmed Mohamed (Slack)",
+        "updatedAt": "2026-06-07T11:09:35.929Z",
+        "photoUrl": ""
+      },
+      {
+        "row": 4,
+        "mp": "UAE",
+        "name": "Smoky Honey BBQ Sauce",
+        "date": "2026-06-05",
+        "type": "Slack",
+        "issue": "Please reduce the salt to 5 grams and the black pepper to 1.75",
+        "status": "Done",
+        "assignedTo": "Ahmed Mohamed",
+        "priority": "Low",
+        "notes": "[Via Slack Workflow | MP: UAE] Link: https://dashboard.calo.app/food-components/ae5ad10a-295e-4168-9e4a-64f1af4e8e63",
+        "reportedBy": "Ahmed Mohamed (Slack)",
+        "updatedAt": "2026-06-07T11:17:28.206Z",
+        "photoUrl": ""
+      },
+      {
+        "row": 5,
+        "mp": "UAE",
+        "name": "Fish Singary Mix",
+        "date": "2026-06-05",
+        "type": "Slack",
+        "issue": "Please reduce the salt to 3.75 grams",
+        "status": "Done",
+        "assignedTo": "Ahmed Mohamed",
+        "priority": "Low",
+        "notes": "[Via Slack Workflow | MP: UAE] Link: https://dashboard.calo.app/food-components/d2986433-2074-4a7f-a444-2957b2e1562a",
+        "reportedBy": "Ahmed Mohamed (Slack)",
+        "updatedAt": "2026-06-07T11:20:37.783Z",
+        "photoUrl": ""
+      },
+      {
+        "row": 6,
+        "mp": "UAE",
+        "name": "Chipolata",
+        "date": "2026-06-06",
+        "type": "Slack",
+        "issue": "Please add the raw weight per PC in the recipe method and the cooked weight Raw weight 50 grams and cooked weight 41 grams",
+        "status": "Done",
+        "assignedTo": "Ahmed Mohamed",
+        "priority": "Low",
+        "notes": "[Via Slack Workflow | MP: UAE] Link: https://dashboard.calo.app/food-components/4a005a3e-761e-4b6b-9722-7d658a8416e4",
+        "reportedBy": "Ahmed Mohamed (Slack)",
+        "updatedAt": "2026-06-08T07:55:54.716Z",
+        "photoUrl": ""
+      },
+      {
+        "row": 7,
+        "mp": "UAE",
+        "name": "Parmesan Breaded Chicken Strips",
+        "date": "2026-06-06",
+        "type": "Slack",
+        "issue": "Please change step 5,6,7 and 8 tagging to be in butchery not roasting",
+        "status": "Done",
+        "assignedTo": "Ahmed Mohamed",
+        "priority": "Low",
+        "notes": "[Via Slack Workflow | MP: UAE] Link: https://dashboard.calo.app/food-components/7892e3f8-957a-468a-b34d-843f7b3fbe84",
+        "reportedBy": "Ahmed Mohamed (Slack)",
+        "updatedAt": "2026-06-06T14:49:44.284Z",
+        "photoUrl": ""
+      },
+      {
+        "row": 8,
+        "mp": "UAE",
+        "name": "Coconut Cream Cucumber Raita",
+        "date": "2026-06-08",
+        "type": "Slack",
+        "issue": "Please reduce the cucumber to 200 grams and increase the coconut cream to 140 grams",
+        "status": "Done",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "[Via Slack Workflow | MP: UAE] Link: https://dashboard.calo.app/food-components/1da61fa9-c19e-4405-98d3-bd2d4e75d4e4 Slack: https://calohq.slack.com/archives/C07EFRRGQGJ/p1780942362604379",
+        "reportedBy": "Ahmed Mohamed (Slack)",
+        "updatedAt": "2026-06-14T08:31:15.698Z",
+        "photoUrl": ""
+      },
+      {
+        "row": 9,
+        "mp": "UAE",
+        "name": "Creamy Coconut Chicken",
+        "date": "2026-06-10",
+        "type": "Slack",
+        "issue": "Please reduce the chili green fresh to 5 grams and the black pepper to 0.5 gram",
+        "status": "Done",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "[Via Slack Workflow | MP: UAE] Link: https://dashboard.calo.app/food-components/8a78268f-5aef-471b-92ee-8e16f01a0b2b Slack: https://calohq.slack.com/archives/C07EFRRGQGJ/p1781098845638139",
+        "reportedBy": "Ahmed Mohamed (Slack)",
+        "updatedAt": "2026-06-11T13:38:51.328Z",
+        "photoUrl": ""
+      },
+      {
+        "row": 10,
+        "mp": "UAE",
+        "name": "Chicken Biryani Stew",
+        "date": "2026-06-10",
+        "type": "Slack",
+        "issue": "Please reduce the onion to 100 grams",
+        "status": "Done",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "[Via Slack Workflow | MP: UAE] Link: https://dashboard.calo.app/food-components/01cef25a-d77a-4807-b6ed-2e65559681e1 Slack: https://calohq.slack.com/archives/C07EFRRGQGJ/p1781099071641269",
+        "reportedBy": "Ahmed Mohamed (Slack)",
+        "updatedAt": "2026-06-11T08:12:14.003Z",
+        "photoUrl": ""
+      },
+      {
+        "row": 11,
+        "mp": "UAE",
+        "name": "Butter Masala Sauce",
+        "date": "2026-06-13",
+        "type": "Slack",
+        "issue": "Please reduce Kashmiri chili powder to 3.5 grams",
+        "status": "Done",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "[Via Slack Workflow | MP: UAE] Link: https://dashboard.calo.app/food-components/5b5008ad-b3f2-4425-9afe-be9fcae2650b Slack: https://calohq.slack.com/archives/C07EFRRGQGJ/p1781299843932919",
+        "reportedBy": "Ahmed Mohamed (Slack)",
+        "updatedAt": "2026-06-14T08:31:30.569Z",
+        "photoUrl": ""
+      }
+    ],
+    "totals": {
+      "total": 12,
+      "done": 11,
+      "pending": 1,
+      "inProgress": 0,
+      "donePct": 92,
+      "byType": {
+        "Slack": 11,
+        "Recipe": 1
+      },
+      "byPriority": {
+        "Low": 11,
+        "High": 1
+      },
+      "byStatus": {
+        "Pending": 1,
+        "Done": 11
+      }
+    },
+    "filters": {
+      "types": [
+        "Recipe",
+        "Slack"
+      ],
+      "statuses": [
+        "Done",
+        "Pending"
+      ],
+      "priorities": [
+        "High",
+        "Low"
+      ],
+      "assignees": [
+        "Ahmed Mohamed"
+      ]
+    }
+  },
+  "meta": {
+    "types": [
+      "Recipe",
+      "Slack"
+    ],
+    "statuses": [
+      "Done"
+    ],
+    "priorities": [
+      "High",
+      "Low"
+    ],
+    "assignedUsers": [
+      "Ahmed Mohamed"
+    ]
+  }
+}
