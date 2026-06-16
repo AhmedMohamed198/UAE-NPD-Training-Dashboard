@@ -2,6 +2,21 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-63F413CC",
+        "date": "2026-06-16",
+        "type": "Slack",
+        "name": "Beef Julienne",
+        "issueDetails": "The recipe didn't mention the length of the strips",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://slack.com/archives/C06SH4R4QTF/p1781638785575539",
+        "reportedBy": "U045F6MSMK6",
+        "done": false,
+        "slackTs": "1781638785.575539",
+        "updatedAt": "2026-06-16"
+      },
+      {
         "id": "FIX-E2C363FE",
         "date": "2026-06-16",
         "type": "Slack",
@@ -183,21 +198,21 @@
       }
     ],
     "totals": {
-      "total": 12,
+      "total": 13,
       "done": 11,
-      "pending": 1,
+      "pending": 2,
       "inProgress": 0,
-      "donePct": 92,
+      "donePct": 85,
       "byType": {
-        "Slack": 11,
+        "Slack": 12,
         "Recipe": 1
       },
       "byPriority": {
-        "Low": 11,
+        "Low": 12,
         "High": 1
       },
       "byStatus": {
-        "Pending": 1,
+        "Pending": 2,
         "Done": 11
       }
     },
