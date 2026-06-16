@@ -2,6 +2,21 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-4798CB86",
+        "date": "2026-06-16",
+        "type": "Slack",
+        "name": "Caldereta sauce",
+        "issueDetails": "The recipe didn't mention the consistency",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://slack.com/archives/C06SH4R4QTF/p1781649593704199",
+        "reportedBy": "Ahmed Mohamed",
+        "done": false,
+        "slackTs": "1781649593.704199",
+        "updatedAt": "2026-06-16"
+      },
+      {
         "id": "FIX-51F79CB3",
         "date": "2026-06-16",
         "type": "Slack",
@@ -363,21 +378,21 @@
       }
     ],
     "totals": {
-      "total": 24,
+      "total": 25,
       "done": 11,
-      "pending": 13,
+      "pending": 14,
       "inProgress": 0,
-      "donePct": 46,
+      "donePct": 44,
       "byType": {
-        "Slack": 23,
+        "Slack": 24,
         "Recipe": 1
       },
       "byPriority": {
-        "Low": 23,
+        "Low": 24,
         "High": 1
       },
       "byStatus": {
-        "Pending": 13,
+        "Pending": 14,
         "Done": 11
       }
     },
