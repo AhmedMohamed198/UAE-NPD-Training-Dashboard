@@ -182,21 +182,6 @@
         "updatedAt": "2026-06-16"
       },
       {
-        "id": "FIX-63F413CC",
-        "date": "2026-06-16",
-        "type": "Slack",
-        "name": "Beef Julienne",
-        "issueDetails": "The recipe didn't mention the length of the strips",
-        "status": "Pending",
-        "assignedTo": "",
-        "priority": "Low",
-        "notes": "Link: https://slack.com/archives/C06SH4R4QTF/p1781638785575539",
-        "reportedBy": "U045F6MSMK6",
-        "done": false,
-        "slackTs": "1781638785.575539",
-        "updatedAt": "2026-06-16"
-      },
-      {
         "row": 1,
         "mp": "UAE",
         "name": "Spinach and Pepper Egg Muffin",
@@ -363,21 +348,21 @@
       }
     ],
     "totals": {
-      "total": 24,
+      "total": 23,
       "done": 11,
-      "pending": 13,
+      "pending": 12,
       "inProgress": 0,
-      "donePct": 46,
+      "donePct": 48,
       "byType": {
-        "Slack": 23,
+        "Slack": 22,
         "Recipe": 1
       },
       "byPriority": {
-        "Low": 23,
+        "Low": 22,
         "High": 1
       },
       "byStatus": {
-        "Pending": 13,
+        "Pending": 12,
         "Done": 11
       }
     },
