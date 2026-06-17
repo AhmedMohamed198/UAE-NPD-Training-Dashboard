@@ -137,21 +137,6 @@
         "updatedAt": "2026-06-16"
       },
       {
-        "id": "FIX-15CC154B",
-        "date": "2026-06-16",
-        "type": "Slack",
-        "name": "Chef <@U08C5HSADHB> FYI",
-        "issueDetails": "Chef <@U08C5HSADHB> FYI",
-        "status": "Pending",
-        "assignedTo": "",
-        "priority": "Low",
-        "notes": "Link: https://slack.com/archives/C06SH4R4QTF/p1781638885572899",
-        "reportedBy": "Ahmed Mohamed",
-        "done": false,
-        "slackTs": "1781638885.572899",
-        "updatedAt": "2026-06-16"
-      },
-      {
         "id": "FIX-48FF6596",
         "date": "2026-06-16",
         "type": "Slack",
@@ -333,21 +318,21 @@
       }
     ],
     "totals": {
-      "total": 22,
+      "total": 21,
       "done": 11,
-      "pending": 11,
+      "pending": 10,
       "inProgress": 0,
-      "donePct": 50,
+      "donePct": 52,
       "byType": {
-        "Slack": 21,
+        "Slack": 20,
         "Recipe": 1
       },
       "byPriority": {
-        "Low": 21,
+        "Low": 20,
         "High": 1
       },
       "byStatus": {
-        "Pending": 11,
+        "Pending": 10,
         "Done": 11
       }
     },
