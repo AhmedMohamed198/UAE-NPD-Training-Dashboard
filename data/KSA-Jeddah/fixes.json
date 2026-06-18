@@ -273,21 +273,21 @@
         "type": "Slack",
         "name": "Orange and pepper Chicken",
         "issueDetails": "For orange and pepper chicken , the raw weight is 3401 g and the cooked weight is 2100 g. the CR7 factor should be updated to 1.619",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "[Via Slack Workflow | MP: KSA - Jeddah]\nLink: Orange and pepper Chicken\nSlack: https://calohq.slack.com/archives/C07EFRRGQGJ/p1781433011875839",
         "reportedBy": "Chandan kumar (Slack)",
-        "done": false,
-        "updatedAt": "2026-06-14"
+        "done": true,
+        "updatedAt": "2026-06-18"
       }
     ],
     "totals": {
       "total": 20,
-      "done": 14,
-      "pending": 6,
+      "done": 15,
+      "pending": 5,
       "inProgress": 0,
-      "donePct": 70,
+      "donePct": 75,
       "byType": {
         "Slack": 20
       },
@@ -295,8 +295,8 @@
         "Low": 20
       },
       "byStatus": {
-        "Done": 14,
-        "Pending": 6
+        "Done": 15,
+        "Pending": 5
       }
     },
     "filters": {
