@@ -133,13 +133,13 @@
         "type": "Slack",
         "name": "Pulled Chicken",
         "issueDetails": "Please update the Pulled Chicken Chicken Mix guideline by removing Tomato (Peeled) from the recipe and adding Water – 56g instead.",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "[Via Slack Workflow | MP: KSA - Jeddah]\nLink: Pulled Chicken\nSlack: https://calohq.slack.com/archives/C07EFRRGQGJ/p1781191940087599",
         "reportedBy": "Chandan kumar (Slack)",
-        "done": false,
-        "updatedAt": "2026-06-11"
+        "done": true,
+        "updatedAt": "2026-06-18"
       },
       {
         "id": "FIX-G7GA3L6F",
@@ -284,10 +284,10 @@
     ],
     "totals": {
       "total": 20,
-      "done": 16,
-      "pending": 4,
+      "done": 17,
+      "pending": 3,
       "inProgress": 0,
-      "donePct": 80,
+      "donePct": 85,
       "byType": {
         "Slack": 20
       },
@@ -295,8 +295,8 @@
         "Low": 20
       },
       "byStatus": {
-        "Done": 16,
-        "Pending": 4
+        "Done": 17,
+        "Pending": 3
       }
     },
     "filters": {
