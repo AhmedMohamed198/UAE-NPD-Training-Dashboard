@@ -245,13 +245,13 @@
         "type": "Slack",
         "name": "Masala Chicken Strips",
         "issueDetails": "For Masala Chicken strips , the raw weight is 4025 g and the cooked weight is 2200 g. the CR7 factor should be updated to 1.829.",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "[Via Slack Workflow | MP: KSA - Jeddah]\nLink: Masala chicken strips\nSlack: https://calohq.slack.com/archives/C07EFRRGQGJ/p1781426110483439",
         "reportedBy": "Chandan kumar (Slack)",
-        "done": false,
-        "updatedAt": "2026-06-14"
+        "done": true,
+        "updatedAt": "2026-06-18"
       },
       {
         "id": "FIX-74JFHQNE",
@@ -284,10 +284,10 @@
     ],
     "totals": {
       "total": 20,
-      "done": 13,
-      "pending": 7,
+      "done": 14,
+      "pending": 6,
       "inProgress": 0,
-      "donePct": 65,
+      "donePct": 70,
       "byType": {
         "Slack": 20
       },
@@ -295,8 +295,8 @@
         "Low": 20
       },
       "byStatus": {
-        "Done": 13,
-        "Pending": 7
+        "Done": 14,
+        "Pending": 6
       }
     },
     "filters": {
