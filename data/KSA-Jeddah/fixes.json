@@ -132,7 +132,7 @@
         "date": "2026-06-11",
         "type": "Slack",
         "name": "Pulled Chicken",
-        "issueDetails": "Please update the Pulled Chicken Chicken Mix guideline by removing Tomato (Peeled) from the recipe and adding Water \u2013 56g instead.",
+        "issueDetails": "Please update the Pulled Chicken Chicken Mix guideline by removing Tomato (Peeled) from the recipe and adding Water – 56g instead.",
         "status": "Pending",
         "assignedTo": "",
         "priority": "Low",
@@ -161,13 +161,13 @@
         "type": "Slack",
         "name": "Chicken Tuscan",
         "issueDetails": "For Chicken Tuscan , the raw weight 3478 g and the cooked weight was 2400 g . Please update the CR7 factor to 1.449",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "[Via Slack Workflow | MP: KSA - Jeddah]\nLink: Chicken Tuscan\nSlack: https://calohq.slack.com/archives/C07EFRRGQGJ/p1781192937916649",
         "reportedBy": "Chandan kumar (Slack)",
-        "done": false,
-        "updatedAt": "2026-06-11"
+        "done": true,
+        "updatedAt": "2026-06-18"
       },
       {
         "id": "FIX-JWKPJC3C",
@@ -284,10 +284,10 @@
     ],
     "totals": {
       "total": 20,
-      "done": 9,
-      "pending": 11,
+      "done": 10,
+      "pending": 10,
       "inProgress": 0,
-      "donePct": 45,
+      "donePct": 50,
       "byType": {
         "Slack": 20
       },
@@ -295,8 +295,8 @@
         "Low": 20
       },
       "byStatus": {
-        "Done": 9,
-        "Pending": 11
+        "Done": 10,
+        "Pending": 10
       }
     },
     "filters": {
