@@ -203,13 +203,13 @@
         "type": "Slack",
         "name": "Garlic Ginger Chicken",
         "issueDetails": "For Garlic Ginger Chicken, the raw weight is 3584 g and the cooked weight is 2300 g. the CR7 factor should be updated to 1.55",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "[Via Slack Workflow | MP: KSA - Jeddah]\nLink: Garlic Ginger Chicken\nSlack: https://calohq.slack.com/archives/C07EFRRGQGJ/p1781425840569909",
         "reportedBy": "Chandan kumar (Slack)",
-        "done": false,
-        "updatedAt": "2026-06-14"
+        "done": true,
+        "updatedAt": "2026-06-18"
       },
       {
         "id": "FIX-NUVQF4PG",
@@ -284,10 +284,10 @@
     ],
     "totals": {
       "total": 20,
-      "done": 11,
-      "pending": 9,
+      "done": 12,
+      "pending": 8,
       "inProgress": 0,
-      "donePct": 55,
+      "donePct": 60,
       "byType": {
         "Slack": 20
       },
@@ -295,8 +295,8 @@
         "Low": 20
       },
       "byStatus": {
-        "Done": 11,
-        "Pending": 9
+        "Done": 12,
+        "Pending": 8
       }
     },
     "filters": {
