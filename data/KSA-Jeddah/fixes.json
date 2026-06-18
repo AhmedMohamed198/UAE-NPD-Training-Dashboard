@@ -217,13 +217,13 @@
         "type": "Slack",
         "name": "Italian Chicken Strips",
         "issueDetails": "For Italian Chicken strips , the raw weight is 3502 g and the cooked weight is 2200 g. the CR7 factor should be updated to 1.591",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "[Via Slack Workflow | MP: KSA - Jeddah]\nLink: Italian Chicken Strips\nSlack: https://calohq.slack.com/archives/C07EFRRGQGJ/p1781425950451529",
         "reportedBy": "Chandan kumar (Slack)",
-        "done": false,
-        "updatedAt": "2026-06-14"
+        "done": true,
+        "updatedAt": "2026-06-18"
       },
       {
         "id": "FIX-QBRWYP8A",
@@ -284,10 +284,10 @@
     ],
     "totals": {
       "total": 20,
-      "done": 12,
-      "pending": 8,
+      "done": 13,
+      "pending": 7,
       "inProgress": 0,
-      "donePct": 60,
+      "donePct": 65,
       "byType": {
         "Slack": 20
       },
@@ -295,8 +295,8 @@
         "Low": 20
       },
       "byStatus": {
-        "Done": 12,
-        "Pending": 8
+        "Done": 13,
+        "Pending": 7
       }
     },
     "filters": {
