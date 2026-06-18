@@ -8,15 +8,15 @@
         "type": "Slack",
         "name": "Salmon Breakfast Bowl",
         "issue": "Please add one PC lemon wedges for both sizes",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "Link: https://dashboard.calo.app/food/slug/salmon-breakfast-bowl-ae001-calo",
         "reportedBy": "Ahmed Mohamed",
-        "done": false,
+        "done": true,
         "slackTs": "1781721483.780989",
         "photoUrl": "",
-        "updatedAt": "2026-06-17T18:38:06.664Z",
+        "updatedAt": "2026-06-18",
         "row": 12
       },
       {
@@ -217,10 +217,10 @@
     ],
     "totals": {
       "total": 14,
-      "done": 11,
-      "pending": 3,
+      "done": 12,
+      "pending": 2,
       "inProgress": 0,
-      "donePct": 79,
+      "donePct": 86,
       "byType": {
         "Slack": 13,
         "Recipe": 1
@@ -230,8 +230,8 @@
         "High": 1
       },
       "byStatus": {
-        "Pending": 3,
-        "Done": 11
+        "Done": 12,
+        "Pending": 2
       }
     },
     "filters": {
