@@ -259,13 +259,13 @@
         "type": "Slack",
         "name": "Orange Chicken",
         "issueDetails": "For Orange Chicken, the raw weight is 8998 g and the cooked weight is 3800 g. the CR7 factor should be updated to 2.366",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "[Via Slack Workflow | MP: KSA - Jeddah]\nLink: Orange Chicken\nSlack: https://calohq.slack.com/archives/C07EFRRGQGJ/p1781432888517069",
         "reportedBy": "Chandan kumar (Slack)",
-        "done": false,
-        "updatedAt": "2026-06-14"
+        "done": true,
+        "updatedAt": "2026-06-18"
       },
       {
         "id": "FIX-7LCD9EES",
@@ -284,10 +284,10 @@
     ],
     "totals": {
       "total": 20,
-      "done": 15,
-      "pending": 5,
+      "done": 16,
+      "pending": 4,
       "inProgress": 0,
-      "donePct": 75,
+      "donePct": 80,
       "byType": {
         "Slack": 20
       },
@@ -295,8 +295,8 @@
         "Low": 20
       },
       "byStatus": {
-        "Done": 15,
-        "Pending": 5
+        "Done": 16,
+        "Pending": 4
       }
     },
     "filters": {
