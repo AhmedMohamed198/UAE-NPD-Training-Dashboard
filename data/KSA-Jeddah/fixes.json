@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-9B6FA64B",
+        "mp": "KSA-Jeddah",
+        "date": "2026-06-21",
+        "type": "Slack",
+        "name": "Zaatar Chicken",
+        "issue": "For Zaatar Chicken, the raw weight is 6072 g and the cooked weight is 3600 g. the CR7 factor should be updated to 1.68.",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: Zaatar Chicken",
+        "reportedBy": "Chandan kumar",
+        "done": false,
+        "slackTs": "1782025164.087999",
+        "photoUrl": "",
+        "updatedAt": "2026-06-21T06:59:25.996Z",
+        "row": 6
+      },
+      {
         "id": "FIX-8D9594EE",
         "mp": "KSA-Jeddah",
         "date": "2026-06-21",
@@ -373,19 +391,19 @@
       }
     ],
     "totals": {
-      "total": 25,
+      "total": 26,
       "done": 17,
-      "pending": 8,
+      "pending": 9,
       "inProgress": 0,
-      "donePct": 68,
+      "donePct": 65,
       "byType": {
-        "Slack": 25
+        "Slack": 26
       },
       "byPriority": {
-        "Low": 25
+        "Low": 26
       },
       "byStatus": {
-        "Pending": 8,
+        "Pending": 9,
         "Done": 17
       }
     },
