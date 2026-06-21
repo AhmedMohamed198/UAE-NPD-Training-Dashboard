@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-B15F7B0E",
+        "mp": "KSA-Jeddah",
+        "date": "2026-06-21",
+        "type": "Slack",
+        "name": "Soy Glazed Chicken",
+        "issue": "For Soy Glazed Chicken, the raw weight is 1668 g and the cooked weight is 600 g. the CR7 factor should be updated to 2.78",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: Soy Glazed Chicken",
+        "reportedBy": "Chandan kumar",
+        "done": false,
+        "slackTs": "1782024428.320789",
+        "photoUrl": "",
+        "updatedAt": "2026-06-21T06:47:10.056Z",
+        "row": 4
+      },
+      {
         "id": "FIX-77589DA3",
         "mp": "KSA-Jeddah",
         "date": "2026-06-21",
@@ -337,19 +355,19 @@
       }
     ],
     "totals": {
-      "total": 23,
+      "total": 24,
       "done": 17,
-      "pending": 6,
+      "pending": 7,
       "inProgress": 0,
-      "donePct": 74,
+      "donePct": 71,
       "byType": {
-        "Slack": 23
+        "Slack": 24
       },
       "byPriority": {
-        "Low": 23
+        "Low": 24
       },
       "byStatus": {
-        "Pending": 6,
+        "Pending": 7,
         "Done": 17
       }
     },
