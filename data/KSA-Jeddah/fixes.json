@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-8D9594EE",
+        "mp": "KSA-Jeddah",
+        "date": "2026-06-21",
+        "type": "Slack",
+        "name": "Turkish Chicken",
+        "issue": "For Turkish Chicken, the raw weight is 3236 g and the cooked weight is 2050 g. the CR7 factor should be updated to 1.57",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: Turkish Chicken",
+        "reportedBy": "Chandan kumar",
+        "done": false,
+        "slackTs": "1782024579.610119",
+        "photoUrl": "",
+        "updatedAt": "2026-06-21T06:49:42.523Z",
+        "row": 5
+      },
+      {
         "id": "FIX-B15F7B0E",
         "mp": "KSA-Jeddah",
         "date": "2026-06-21",
@@ -355,19 +373,19 @@
       }
     ],
     "totals": {
-      "total": 24,
+      "total": 25,
       "done": 17,
-      "pending": 7,
+      "pending": 8,
       "inProgress": 0,
-      "donePct": 71,
+      "donePct": 68,
       "byType": {
-        "Slack": 24
+        "Slack": 25
       },
       "byPriority": {
-        "Low": 24
+        "Low": 25
       },
       "byStatus": {
-        "Pending": 7,
+        "Pending": 8,
         "Done": 17
       }
     },
