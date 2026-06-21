@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-640FE135",
+        "mp": "KSA-Jeddah",
+        "date": "2026-06-21",
+        "type": "Slack",
+        "name": "Ouzi Chicken",
+        "issue": "For Ouzi Chicken, the raw weight is 5631 g and the cooked weight is 3400 g. the CR7 factor should be updated to 1.656",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: Ouzi Chicken",
+        "reportedBy": "Chandan kumar",
+        "done": false,
+        "slackTs": "1782023890.135099",
+        "photoUrl": "",
+        "updatedAt": "2026-06-21T06:38:13.070Z",
+        "row": 1
+      },
+      {
         "id": "FIX-CSZZB2HZ",
         "date": "2026-06-05",
         "type": "Slack",
@@ -283,20 +301,20 @@
       }
     ],
     "totals": {
-      "total": 20,
+      "total": 21,
       "done": 17,
-      "pending": 3,
+      "pending": 4,
       "inProgress": 0,
-      "donePct": 85,
+      "donePct": 81,
       "byType": {
-        "Slack": 20
+        "Slack": 21
       },
       "byPriority": {
-        "Low": 20
+        "Low": 21
       },
       "byStatus": {
-        "Done": 17,
-        "Pending": 3
+        "Pending": 4,
+        "Done": 17
       }
     },
     "filters": {
