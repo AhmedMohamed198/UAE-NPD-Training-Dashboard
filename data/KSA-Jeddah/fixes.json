@@ -357,13 +357,13 @@
         "type": "Slack",
         "name": "Mandi Chicken",
         "issueDetails": "For Mandi Chicken the raw weight is 1883 g and the cooked weight is 950 g. the CR7 factor should be updated to 1.982",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "[Via Slack Workflow | MP: KSA - Jeddah]\nLink: Mandi Chicken\nSlack: https://calohq.slack.com/archives/C07EFRRGQGJ/p1781426024673329",
         "reportedBy": "Chandan kumar (Slack)",
-        "done": false,
-        "updatedAt": "2026-06-14"
+        "done": true,
+        "updatedAt": "2026-06-21"
       },
       {
         "id": "FIX-RBFNDXHD",
@@ -410,10 +410,10 @@
     ],
     "totals": {
       "total": 27,
-      "done": 18,
-      "pending": 9,
+      "done": 19,
+      "pending": 8,
       "inProgress": 0,
-      "donePct": 67,
+      "donePct": 70,
       "byType": {
         "Slack": 27
       },
@@ -421,8 +421,8 @@
         "Low": 27
       },
       "byStatus": {
-        "Done": 18,
-        "Pending": 9
+        "Done": 19,
+        "Pending": 8
       }
     },
     "filters": {
