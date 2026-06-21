@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-77589DA3",
+        "mp": "KSA-Jeddah",
+        "date": "2026-06-21",
+        "type": "Slack",
+        "name": "Shawarma Chicken",
+        "issue": "For Shawarma Chicken, the raw weight is 5602 g and the cooked weight is 3500 g. the CR7 factor should be updated to 1.60 .",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: Shawarma Chicken",
+        "reportedBy": "Chandan kumar",
+        "done": false,
+        "slackTs": "1782024240.618049",
+        "photoUrl": "",
+        "updatedAt": "2026-06-21T06:44:02.494Z",
+        "row": 3
+      },
+      {
         "id": "FIX-C4BFF19C",
         "mp": "KSA-Jeddah",
         "date": "2026-06-21",
@@ -319,19 +337,19 @@
       }
     ],
     "totals": {
-      "total": 22,
+      "total": 23,
       "done": 17,
-      "pending": 5,
+      "pending": 6,
       "inProgress": 0,
-      "donePct": 77,
+      "donePct": 74,
       "byType": {
-        "Slack": 22
+        "Slack": 23
       },
       "byPriority": {
-        "Low": 22
+        "Low": 23
       },
       "byStatus": {
-        "Pending": 5,
+        "Pending": 6,
         "Done": 17
       }
     },
