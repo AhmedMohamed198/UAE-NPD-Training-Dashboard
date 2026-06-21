@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-C4BFF19C",
+        "mp": "KSA-Jeddah",
+        "date": "2026-06-21",
+        "type": "Slack",
+        "name": "Roasted Red pepper Chicken cubes",
+        "issue": "For Roasted Red pepper Chicken Cubes , the raw weight is 1768 g and the cooked weight is 1200 g. the CR7 factor should be updated to 1.47",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: Roasted Red Pepper Chicken Cubes",
+        "reportedBy": "Chandan kumar",
+        "done": false,
+        "slackTs": "1782024133.072029",
+        "photoUrl": "",
+        "updatedAt": "2026-06-21T06:42:15.005Z",
+        "row": 2
+      },
+      {
         "id": "FIX-640FE135",
         "mp": "KSA-Jeddah",
         "date": "2026-06-21",
@@ -301,19 +319,19 @@
       }
     ],
     "totals": {
-      "total": 21,
+      "total": 22,
       "done": 17,
-      "pending": 4,
+      "pending": 5,
       "inProgress": 0,
-      "donePct": 81,
+      "donePct": 77,
       "byType": {
-        "Slack": 21
+        "Slack": 22
       },
       "byPriority": {
-        "Low": 21
+        "Low": 22
       },
       "byStatus": {
-        "Pending": 4,
+        "Pending": 5,
         "Done": 17
       }
     },
