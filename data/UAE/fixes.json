@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-2A876387",
+        "mp": "UAE",
+        "date": "2026-06-21",
+        "type": "Slack",
+        "name": "Chicken Bunny Chow",
+        "issue": "Please sync the component from BH dashboard to UAE dashboard",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/food-components/97f616b2-69b4-40f6-a36d-fa0faa71c5a2",
+        "reportedBy": "Ahmed Mohamed",
+        "done": false,
+        "slackTs": "1782055193.677079",
+        "photoUrl": "",
+        "updatedAt": "2026-06-21T15:19:56.881Z",
+        "row": 15
+      },
+      {
         "id": "FIX-29143E05",
         "mp": "UAE",
         "date": "2026-06-21",
@@ -252,21 +270,21 @@
       }
     ],
     "totals": {
-      "total": 16,
+      "total": 17,
       "done": 12,
-      "pending": 4,
+      "pending": 5,
       "inProgress": 0,
-      "donePct": 75,
+      "donePct": 71,
       "byType": {
-        "Slack": 15,
+        "Slack": 16,
         "Recipe": 1
       },
       "byPriority": {
-        "Low": 15,
+        "Low": 16,
         "High": 1
       },
       "byStatus": {
-        "Pending": 4,
+        "Pending": 5,
         "Done": 12
       }
     },
