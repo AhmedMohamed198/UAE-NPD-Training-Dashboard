@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-B6C39C0C",
+        "mp": "KSA-Jeddah",
+        "date": "2026-06-21",
+        "type": "Slack",
+        "name": "Zurbian Chicken",
+        "issue": "For Zurbian Chicken, the raw weight is 1990 g and the cooked weight is 1300 g. the CR7 factor should be updated to 1.530",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: Zurbian Chicken",
+        "reportedBy": "Chandan kumar",
+        "done": false,
+        "slackTs": "1782025932.089259",
+        "photoUrl": "",
+        "updatedAt": "2026-06-21T07:12:15.097Z",
+        "row": 7
+      },
+      {
         "id": "FIX-9B6FA64B",
         "mp": "KSA-Jeddah",
         "date": "2026-06-21",
@@ -391,19 +409,19 @@
       }
     ],
     "totals": {
-      "total": 26,
+      "total": 27,
       "done": 17,
-      "pending": 9,
+      "pending": 10,
       "inProgress": 0,
-      "donePct": 65,
+      "donePct": 63,
       "byType": {
-        "Slack": 26
+        "Slack": 27
       },
       "byPriority": {
-        "Low": 26
+        "Low": 27
       },
       "byStatus": {
-        "Pending": 9,
+        "Pending": 10,
         "Done": 17
       }
     },
