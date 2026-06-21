@@ -315,13 +315,13 @@
         "type": "Slack",
         "name": "Fajita Chicken",
         "issueDetails": "For Fajita Chicken, the raw weight is 3657 g and the cooked weight is 2300 g. the CR7 factor should be updated to 1.59.",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "[Via Slack Workflow | MP: KSA - Jeddah]\nLink: Fajita Chicken\nSlack: https://calohq.slack.com/archives/C07EFRRGQGJ/p1781425764099049",
         "reportedBy": "Chandan kumar (Slack)",
-        "done": false,
-        "updatedAt": "2026-06-14"
+        "done": true,
+        "updatedAt": "2026-06-21"
       },
       {
         "id": "FIX-JEMD5GTB",
@@ -410,10 +410,10 @@
     ],
     "totals": {
       "total": 27,
-      "done": 19,
-      "pending": 8,
+      "done": 20,
+      "pending": 7,
       "inProgress": 0,
-      "donePct": 70,
+      "donePct": 74,
       "byType": {
         "Slack": 27
       },
@@ -421,8 +421,8 @@
         "Low": 27
       },
       "byStatus": {
-        "Done": 19,
-        "Pending": 8
+        "Done": 20,
+        "Pending": 7
       }
     },
     "filters": {
