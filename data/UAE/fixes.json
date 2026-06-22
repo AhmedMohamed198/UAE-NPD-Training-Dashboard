@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-1FDF1DC7",
+        "mp": "UAE",
+        "date": "2026-06-22",
+        "type": "Slack",
+        "name": "Butterscotch Cheesecake",
+        "issue": "Please change the CRF to 1.16",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/food-components/530d4983-e2e6-4030-a064-2f02f8e9c98b",
+        "reportedBy": "Ahmed Mohamed",
+        "done": false,
+        "slackTs": "1782108356.642429",
+        "photoUrl": "",
+        "updatedAt": "2026-06-22T06:05:58.827Z",
+        "row": 16
+      },
+      {
         "id": "FIX-2A876387",
         "mp": "UAE",
         "date": "2026-06-21",
@@ -270,21 +288,21 @@
       }
     ],
     "totals": {
-      "total": 17,
+      "total": 18,
       "done": 12,
-      "pending": 5,
+      "pending": 6,
       "inProgress": 0,
-      "donePct": 71,
+      "donePct": 67,
       "byType": {
-        "Slack": 16,
+        "Slack": 17,
         "Recipe": 1
       },
       "byPriority": {
-        "Low": 16,
+        "Low": 17,
         "High": 1
       },
       "byStatus": {
-        "Pending": 5,
+        "Pending": 6,
         "Done": 12
       }
     },
