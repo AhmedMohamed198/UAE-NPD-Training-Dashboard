@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-4E788B73",
+        "mp": "UAE",
+        "date": "2026-06-22",
+        "type": "Slack",
+        "name": "Sesame Oil",
+        "issue": "Protein:  0",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/ingredients/7d6b67f8-cc5d-448e-918e-cbf5733b6b7b",
+        "reportedBy": "Sarah Juma Al-Binkhalil",
+        "done": false,
+        "slackTs": "1782130786.254289",
+        "photoUrl": "",
+        "updatedAt": "2026-06-22T12:19:49.625Z",
+        "row": 29
+      },
+      {
         "id": "FIX-2A04D151",
         "mp": "UAE",
         "date": "2026-06-22",
@@ -504,21 +522,21 @@
       }
     ],
     "totals": {
-      "total": 30,
+      "total": 31,
       "done": 12,
-      "pending": 18,
+      "pending": 19,
       "inProgress": 0,
-      "donePct": 40,
+      "donePct": 39,
       "byType": {
-        "Slack": 29,
+        "Slack": 30,
         "Recipe": 1
       },
       "byPriority": {
-        "Low": 29,
+        "Low": 30,
         "High": 1
       },
       "byStatus": {
-        "Pending": 18,
+        "Pending": 19,
         "Done": 12
       }
     },
