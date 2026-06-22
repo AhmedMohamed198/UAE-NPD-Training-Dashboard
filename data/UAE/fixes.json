@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-E860EC55",
+        "mp": "UAE",
+        "date": "2026-06-22",
+        "type": "Slack",
+        "name": "Almond Flour",
+        "issue": "Protein:  0.26200",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/ingredients/e8c59ea6-80d4-4541-baec-4ebb40f40198",
+        "reportedBy": "Sarah Juma Al-Binkhalil",
+        "done": false,
+        "slackTs": "1782132477.593189",
+        "photoUrl": "",
+        "updatedAt": "2026-06-22T12:48:00.590Z",
+        "row": 31
+      },
+      {
         "id": "FIX-4E79422A",
         "mp": "UAE",
         "date": "2026-06-22",
@@ -540,21 +558,21 @@
       }
     ],
     "totals": {
-      "total": 32,
+      "total": 33,
       "done": 12,
-      "pending": 20,
+      "pending": 21,
       "inProgress": 0,
-      "donePct": 38,
+      "donePct": 36,
       "byType": {
-        "Slack": 31,
+        "Slack": 32,
         "Recipe": 1
       },
       "byPriority": {
-        "Low": 31,
+        "Low": 32,
         "High": 1
       },
       "byStatus": {
-        "Pending": 20,
+        "Pending": 21,
         "Done": 12
       }
     },
