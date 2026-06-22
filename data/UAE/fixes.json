@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-867BA66E",
+        "mp": "UAE",
+        "date": "2026-06-22",
+        "type": "Slack",
+        "name": "Olive Oil",
+        "issue": "Change  only  Fat to 0.93",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/ingredients/014e75ad-a9ec-4b9a-9770-91ab9774775e",
+        "reportedBy": "Shooq",
+        "done": false,
+        "slackTs": "1782123614.436499",
+        "photoUrl": "",
+        "updatedAt": "2026-06-22T10:20:27.358Z",
+        "row": 22
+      },
+      {
         "id": "FIX-76EC6949",
         "mp": "UAE",
         "date": "2026-06-22",
@@ -378,21 +396,21 @@
       }
     ],
     "totals": {
-      "total": 23,
+      "total": 24,
       "done": 12,
-      "pending": 11,
+      "pending": 12,
       "inProgress": 0,
-      "donePct": 52,
+      "donePct": 50,
       "byType": {
-        "Slack": 22,
+        "Slack": 23,
         "Recipe": 1
       },
       "byPriority": {
-        "Low": 22,
+        "Low": 23,
         "High": 1
       },
       "byStatus": {
-        "Pending": 11,
+        "Pending": 12,
         "Done": 12
       }
     },
