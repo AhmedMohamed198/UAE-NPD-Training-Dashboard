@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-2FA98CA0",
+        "mp": "UAE",
+        "date": "2026-06-22",
+        "type": "Slack",
+        "name": "Whipping Cream",
+        "issue": "Change Fiber to 0.005",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/ingredients/b6149f8a-927d-480a-aa88-09383be8c8c2",
+        "reportedBy": "Shooq",
+        "done": false,
+        "slackTs": "1782121571.457759",
+        "photoUrl": "",
+        "updatedAt": "2026-06-22T09:46:14.437Z",
+        "row": 17
+      },
+      {
         "id": "FIX-1FDF1DC7",
         "mp": "UAE",
         "date": "2026-06-22",
@@ -288,21 +306,21 @@
       }
     ],
     "totals": {
-      "total": 18,
+      "total": 19,
       "done": 12,
-      "pending": 6,
+      "pending": 7,
       "inProgress": 0,
-      "donePct": 67,
+      "donePct": 63,
       "byType": {
-        "Slack": 17,
+        "Slack": 18,
         "Recipe": 1
       },
       "byPriority": {
-        "Low": 17,
+        "Low": 18,
         "High": 1
       },
       "byStatus": {
-        "Pending": 6,
+        "Pending": 7,
         "Done": 12
       }
     },
