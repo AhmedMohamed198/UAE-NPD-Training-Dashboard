@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-B55FCE1F",
+        "mp": "UAE",
+        "date": "2026-06-22",
+        "type": "Slack",
+        "name": "Vanilla Protein Powder",
+        "issue": "Change all to 0",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/ingredients/c987c780-275b-4a32-a4c7-e429e1010387",
+        "reportedBy": "Shooq",
+        "done": false,
+        "slackTs": "1782129051.432289",
+        "photoUrl": "",
+        "updatedAt": "2026-06-22T11:50:54.964Z",
+        "row": 24
+      },
+      {
         "id": "FIX-9A419BF4",
         "mp": "UAE",
         "date": "2026-06-22",
@@ -414,21 +432,21 @@
       }
     ],
     "totals": {
-      "total": 25,
+      "total": 26,
       "done": 12,
-      "pending": 13,
+      "pending": 14,
       "inProgress": 0,
-      "donePct": 48,
+      "donePct": 46,
       "byType": {
-        "Slack": 24,
+        "Slack": 25,
         "Recipe": 1
       },
       "byPriority": {
-        "Low": 24,
+        "Low": 25,
         "High": 1
       },
       "byStatus": {
-        "Pending": 13,
+        "Pending": 14,
         "Done": 12
       }
     },
