@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-4E79422A",
+        "mp": "UAE",
+        "date": "2026-06-22",
+        "type": "Slack",
+        "name": "Maple Syrup",
+        "issue": "Protein:  0.00",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/ingredients/cc083f21-470e-4ce7-b0d9-e07fced8a464",
+        "reportedBy": "Sarah Juma Al-Binkhalil",
+        "done": false,
+        "slackTs": "1782131264.493739",
+        "photoUrl": "",
+        "updatedAt": "2026-06-22T12:27:46.788Z",
+        "row": 30
+      },
+      {
         "id": "FIX-4E788B73",
         "mp": "UAE",
         "date": "2026-06-22",
@@ -522,21 +540,21 @@
       }
     ],
     "totals": {
-      "total": 31,
+      "total": 32,
       "done": 12,
-      "pending": 19,
+      "pending": 20,
       "inProgress": 0,
-      "donePct": 39,
+      "donePct": 38,
       "byType": {
-        "Slack": 30,
+        "Slack": 31,
         "Recipe": 1
       },
       "byPriority": {
-        "Low": 30,
+        "Low": 31,
         "High": 1
       },
       "byStatus": {
-        "Pending": 19,
+        "Pending": 20,
         "Done": 12
       }
     },
