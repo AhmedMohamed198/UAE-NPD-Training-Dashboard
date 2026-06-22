@@ -145,5 +145,12 @@
     "role": "Editor",
     "password": "7ffe9ad03e3eff843a16436df4fce38fb9b6101d3a7956fdada5012173baa49d",
     "mp_access": "UAE"
+  },
+  {
+    "email": "r.wilson@calo.app",
+    "name": "Richard Wilson",
+    "role": "Admin",
+    "password": "39387aaa0f0b19a40f6c0c376fee307a28d25ca6ef3c5d25408b5cb540c440e5",
+    "mp_access": ""
   }
 ]
