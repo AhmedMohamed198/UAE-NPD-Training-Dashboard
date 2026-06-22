@@ -3441,7 +3441,8 @@
           ['Flavour', dataItem.flavour],
           ['Rating', dataItem.rating],
           ['Reason', dataItem.reason],
-          ['Comments', dataItem.comments]
+          ['Comments', dataItem.comments],
+          ['Calo Dashboard', dataItem.link ? '<a href="'+escapeHTML(dataItem.link)+'" target="_blank" style="color:#2d9960">Open in Dashboard</a>' : '', true]
         ]);
         currentPhotoUrl = dataItem.photoUrl;
       } else if (type === 'ingredient') {
@@ -3472,7 +3473,9 @@
           ['Assigned To', dataItem.assignedTo || '—'],
           ['Reported By', (function(rb){ if (!rb) return '—'; return rb.indexOf('slack:') === 0 ? 'Slack: ' + rb.slice(6) : rb; })(dataItem.reportedBy)],
           ['Issue', dataItem.issue],
-          ['Notes', dataItem.notes]
+          ['Notes', dataItem.notes],
+          ['Calo Dashboard', (function(){ var l=_parseFixLinks_(dataItem.notes); return l.dashLink?'<a href="'+escapeHTML(l.dashLink)+'" target="_blank" style="color:#2d9960">Open in Dashboard</a>':''; })(), true],
+          ['Slack Post', (function(){ var l=_parseFixLinks_(dataItem.notes); return l.slackLink?'<a href="'+escapeHTML(l.slackLink)+'" target="_blank" style="color:#4a154b">View Slack Post</a>':''; })(), true]
         ]);
         currentPhotoUrl = dataItem.photoUrl;
       } else if (type === 'quality') {
@@ -3575,6 +3578,7 @@
         h += '<div class="form-group"><label>Cost %</label><input type="number" id="rde_costPct" step="0.01" min="0" value="'+(d.costPct!=null?(d.costPct*100).toFixed(2):'')+'"></div>';
         h += '<div class="form-group"><label>FHS %</label><input type="number" id="rde_fhs" step="0.01" min="0" value="'+(d.fhs!=null?(d.fhs*100).toFixed(2):'')+'"></div>';
         h += '<div class="form-group" style="grid-column:1/-1"><label>Note</label><textarea id="rde_note">'+escapeHTML(d.note||'')+'</textarea></div>';
+        h += '<div class="form-group" style="grid-column:1/-1"><label>Calo Dashboard URL</label><input type="url" id="rde_link" placeholder="https://dashboard.calo.app/meals/..." value="'+escapeHTML(d.link||'')+'"></div>';
         h += '</div><div class="rd-section-title" style="margin-top:14px;margin-bottom:6px">Workflow Steps</div><div class="rd-workflow-checks">';
         h += _wfCheck('rde_ideation','Ideation',d.ideation)+_wfCheck('rde_creation','Creation',d.creation)+_wfCheck('rde_dashboarding','Dashboarding',d.dashboarding);
         h += _wfCheck('rde_mpTasting','MP Tasting',d.mpTasting)+_wfCheck('rde_npdTasting','NPD Tasting',d.npdTasting)+_wfCheck('rde_approving','Approving',d.approving);
@@ -3604,6 +3608,7 @@
         }
         h += '<div class="form-group" style="grid-column:1/-1"><label>Reason</label><textarea id="rde_reason">'+escapeHTML(d.reason||'')+'</textarea></div>';
         h += '<div class="form-group" style="grid-column:1/-1"><label>Comments</label><textarea id="rde_comments">'+escapeHTML(d.comments||'')+'</textarea></div>';
+        h += '<div class="form-group" style="grid-column:1/-1"><label>Calo Dashboard URL</label><input type="url" id="rde_link" placeholder="https://dashboard.calo.app/meals/..." value="'+escapeHTML(d.link||'')+'"></div>';
         h += '</div>';
       } else if (type === 'quality') {
         var _qStatuses = (QUALITY_META && QUALITY_META.statuses && QUALITY_META.statuses.length) ? QUALITY_META.statuses : ['Done','In Progress','Pending'];
@@ -3658,10 +3663,10 @@
       if (!RD_CONTEXT) return;
       var ctx = RD_CONTEXT, payload = {}, fn, args;
       if (ctx.type==='meal') {
-        payload={name:_v('rde_name'),chef:_v('rde_chef'),diet:_v('rde_diet'),type:_v('rde_type'),status:_v('rde_status'),note:_v('rde_note'),costPct:_v('rde_costPct'),fhs:_v('rde_fhs'),ideation:_cb('rde_ideation'),creation:_cb('rde_creation'),dashboarding:_cb('rde_dashboarding'),mpTasting:_cb('rde_mpTasting'),npdTasting:_cb('rde_npdTasting'),approving:_cb('rde_approving')};
+        payload={name:_v('rde_name'),chef:_v('rde_chef'),diet:_v('rde_diet'),type:_v('rde_type'),status:_v('rde_status'),note:_v('rde_note'),link:_v('rde_link'),costPct:_v('rde_costPct'),fhs:_v('rde_fhs'),ideation:_cb('rde_ideation'),creation:_cb('rde_creation'),dashboarding:_cb('rde_dashboarding'),mpTasting:_cb('rde_mpTasting'),npdTasting:_cb('rde_npdTasting'),approving:_cb('rde_approving')};
         fn=google.script.run.withSuccessHandler(function(r){_rdEditDone(r,ctx);}).withFailureHandler(_rdEditFail).updateMeal; args=[ctx.row,payload];
       } else if (ctx.type==='bh') {
-        payload={name:_v('rde_name'),category:_v('rde_category'),size:_v('rde_size'),foodCost:_v('rde_foodCost'),texture:_v('rde_texture'),flavour:_v('rde_flavour'),rating:_v('rde_rating'),reason:_v('rde_reason'),comments:_v('rde_comments')};
+        payload={name:_v('rde_name'),category:_v('rde_category'),size:_v('rde_size'),foodCost:_v('rde_foodCost'),texture:_v('rde_texture'),flavour:_v('rde_flavour'),rating:_v('rde_rating'),reason:_v('rde_reason'),comments:_v('rde_comments'),link:_v('rde_link')};
         fn=google.script.run.withSuccessHandler(function(r){_rdEditDone(r,ctx);}).withFailureHandler(_rdEditFail).updateBhMeal; args=[ctx.row,payload];
       } else if (ctx.type==='quality') {
         payload={name:_v('rde_name'),status:_v('rde_status'),assessmentDate:_v('rde_date'),comment:_v('rde_comment'),correctiveAction:_v('rde_corrective'),notes:_v('rde_notes')};
@@ -5791,7 +5796,7 @@
         return '<tr class="clickable-row" onclick="openBhDetails(' + m.row + ')">' +
           '<td>' + (m.srNo || '—') + '</td>' +
           '<td onclick="event.stopPropagation()">' + photoCell + '</td>' +
-          '<td class="meal-name">' + escapeHTML(m.name) + '</td>' +
+          '<td class="meal-name">' + (m.link ? '<a href="'+escapeHTML(m.link)+'" target="_blank" onclick="event.stopPropagation()" title="Open in Calo Dashboard" style="color:#2d9960;text-decoration:none">'+escapeHTML(m.name)+'&#x1F517;</a>' : escapeHTML(m.name)) + '</td>' +
           '<td>' + bhCostCell(m.foodCost) + '</td>' +
           '<td style="font-size:12px;color:#6b7280">' + escapeHTML(m.category || '—') + '</td>' +
           '<td style="font-size:12px;color:#6b7280">' + escapeHTML(dateLabel) + '</td>' +
@@ -6393,6 +6398,17 @@
     }
     // ─── end @mention engine ──────────────────────────────────────────────────
 
+    // Parse dashboard + Slack links from a fix's notes string
+    function _parseFixLinks_(notes) {
+      var s = String(notes || '');
+      var dash = '', slack = '';
+      var dlm = s.match(/Link:\s*(https?:\/\/\S+)/i);
+      if (dlm) dash = dlm[1].replace(/\s+$/, '');
+      var slm = s.match(/Slack:\s*(https?:\/\/\S+)/i);
+      if (slm) slack = slm[1].replace(/\s+$/, '');
+      return { dashLink: dash, slackLink: slack };
+    }
+
     function renderFixesTable(items) {
       var tb = document.getElementById('fxBody');
       if (!items || items.length === 0) { tb.innerHTML = '<tr><td colspan="11" class="empty">No matches.</td></tr>'; return; }
@@ -6412,8 +6428,13 @@
           '<td>' + photoCell + '</td>' +
           '<td style="font-size:12px;color:#6b7280;white-space:nowrap">' + escapeHTML(i.date || '—') + _ageBadge_(i.date, i.status) + '</td>' +
           '<td>' + typeCell + '</td>' +
-          '<td class="meal-name">' + escapeHTML(i.name) + mpBadge +
-          (i.slackLink ? ' <a href="' + escapeHTML(i.slackLink) + '" target="_blank" onclick="event.stopPropagation()" title="View in Slack" style="color:#4a154b;text-decoration:none;font-size:12px;vertical-align:middle">🔗</a>' : '') + '</td>' +
+          '<td class="meal-name">' + (function(){
+            var lks = _parseFixLinks_(i.notes);
+            var out = escapeHTML(i.name) + mpBadge;
+            if (lks.dashLink) out += ' <a href="' + escapeHTML(lks.dashLink) + '" target="_blank" onclick="event.stopPropagation()" title="Open in Calo Dashboard" style="color:#2d9960;text-decoration:none;font-size:13px;vertical-align:middle">&#x1F517;</a>';
+            if (lks.slackLink) out += ' <a href="' + escapeHTML(lks.slackLink) + '" target="_blank" onclick="event.stopPropagation()" title="View Slack post" style="color:#4a154b;text-decoration:none;font-size:13px;vertical-align:middle">&#x1F4AC;</a>';
+            return out;
+          })() + '</td>' +
           '<td style="max-width:220px;font-size:12px;color:#6b7280">' + escapeHTML(i.issue || '') + '</td>' +
           '<td style="font-size:12px">' + reporterCell + '</td>' +
           '<td onclick="event.stopPropagation()">' + statusPill + '</td>' +
