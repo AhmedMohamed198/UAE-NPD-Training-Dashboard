@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-8513294A",
+        "mp": "UAE",
+        "date": "2026-06-22",
+        "type": "Slack",
+        "name": "Orzo Pasta",
+        "issue": "Change only",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/ingredients/a5bd8835-7d11-4980-aff7-c0794dd62fbe",
+        "reportedBy": "Shooq",
+        "done": false,
+        "slackTs": "1782130065.093529",
+        "photoUrl": "",
+        "updatedAt": "2026-06-22T12:07:47.597Z",
+        "row": 27
+      },
+      {
         "id": "FIX-226A8D7C",
         "mp": "UAE",
         "date": "2026-06-22",
@@ -468,21 +486,21 @@
       }
     ],
     "totals": {
-      "total": 28,
+      "total": 29,
       "done": 12,
-      "pending": 16,
+      "pending": 17,
       "inProgress": 0,
-      "donePct": 43,
+      "donePct": 41,
       "byType": {
-        "Slack": 27,
+        "Slack": 28,
         "Recipe": 1
       },
       "byPriority": {
-        "Low": 27,
+        "Low": 28,
         "High": 1
       },
       "byStatus": {
-        "Pending": 16,
+        "Pending": 17,
         "Done": 12
       }
     },
