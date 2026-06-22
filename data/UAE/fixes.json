@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-76EC6949",
+        "mp": "UAE",
+        "date": "2026-06-22",
+        "type": "Slack",
+        "name": "Hazelnut",
+        "issue": "Protein: 0.13500",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/ingredients/hazelnut       https://dashboard.calo.app/ingredients/1894ac7b-8afb-48d3-9a4f-3aac35843535",
+        "reportedBy": "Sarah Juma Al-Binkhalil",
+        "done": false,
+        "slackTs": "1782123482.923189",
+        "photoUrl": "",
+        "updatedAt": "2026-06-22T10:18:04.857Z",
+        "row": 21
+      },
+      {
         "id": "FIX-7E0739BD",
         "mp": "UAE",
         "date": "2026-06-22",
@@ -360,21 +378,21 @@
       }
     ],
     "totals": {
-      "total": 22,
+      "total": 23,
       "done": 12,
-      "pending": 10,
+      "pending": 11,
       "inProgress": 0,
-      "donePct": 55,
+      "donePct": 52,
       "byType": {
-        "Slack": 21,
+        "Slack": 22,
         "Recipe": 1
       },
       "byPriority": {
-        "Low": 21,
+        "Low": 22,
         "High": 1
       },
       "byStatus": {
-        "Pending": 10,
+        "Pending": 11,
         "Done": 12
       }
     },
