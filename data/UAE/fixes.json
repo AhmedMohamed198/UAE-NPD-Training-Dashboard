@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-2A04D151",
+        "mp": "UAE",
+        "date": "2026-06-22",
+        "type": "Slack",
+        "name": "Barberries",
+        "issue": "Protein:  0.14400",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/ingredients/90755df9-102f-4e98-82d5-c434c60ef752",
+        "reportedBy": "Sarah Juma Al-Binkhalil",
+        "done": false,
+        "slackTs": "1782130309.603299",
+        "photoUrl": "",
+        "updatedAt": "2026-06-22T12:11:51.925Z",
+        "row": 28
+      },
+      {
         "id": "FIX-8513294A",
         "mp": "UAE",
         "date": "2026-06-22",
@@ -486,21 +504,21 @@
       }
     ],
     "totals": {
-      "total": 29,
+      "total": 30,
       "done": 12,
-      "pending": 17,
+      "pending": 18,
       "inProgress": 0,
-      "donePct": 41,
+      "donePct": 40,
       "byType": {
-        "Slack": 28,
+        "Slack": 29,
         "Recipe": 1
       },
       "byPriority": {
-        "Low": 28,
+        "Low": 29,
         "High": 1
       },
       "byStatus": {
-        "Pending": 17,
+        "Pending": 18,
         "Done": 12
       }
     },
