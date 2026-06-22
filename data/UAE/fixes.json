@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-2B536F16",
+        "mp": "UAE",
+        "date": "2026-06-22",
+        "type": "Slack",
+        "name": "Date syrup",
+        "issue": "Protein: 0.0",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/ingredients/ea3f9e64-a40b-492f-87a7-01720b488d4f",
+        "reportedBy": "Sarah Juma Al-Binkhalil",
+        "done": false,
+        "slackTs": "1782122088.772869",
+        "photoUrl": "",
+        "updatedAt": "2026-06-22T09:54:50.580Z",
+        "row": 18
+      },
+      {
         "id": "FIX-2FA98CA0",
         "mp": "UAE",
         "date": "2026-06-22",
@@ -306,21 +324,21 @@
       }
     ],
     "totals": {
-      "total": 19,
+      "total": 20,
       "done": 12,
-      "pending": 7,
+      "pending": 8,
       "inProgress": 0,
-      "donePct": 63,
+      "donePct": 60,
       "byType": {
-        "Slack": 18,
+        "Slack": 19,
         "Recipe": 1
       },
       "byPriority": {
-        "Low": 18,
+        "Low": 19,
         "High": 1
       },
       "byStatus": {
-        "Pending": 7,
+        "Pending": 8,
         "Done": 12
       }
     },
