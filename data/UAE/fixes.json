@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-9A419BF4",
+        "mp": "UAE",
+        "date": "2026-06-22",
+        "type": "Slack",
+        "name": "Miso Paste",
+        "issue": "Change  only",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/ingredients/0b696e32-c2f0-416a-ad56-62e200ca4807",
+        "reportedBy": "Shooq",
+        "done": false,
+        "slackTs": "1782128570.802809",
+        "photoUrl": "",
+        "updatedAt": "2026-06-22T11:42:53.390Z",
+        "row": 23
+      },
+      {
         "id": "FIX-867BA66E",
         "mp": "UAE",
         "date": "2026-06-22",
@@ -396,21 +414,21 @@
       }
     ],
     "totals": {
-      "total": 24,
+      "total": 25,
       "done": 12,
-      "pending": 12,
+      "pending": 13,
       "inProgress": 0,
-      "donePct": 50,
+      "donePct": 48,
       "byType": {
-        "Slack": 23,
+        "Slack": 24,
         "Recipe": 1
       },
       "byPriority": {
-        "Low": 23,
+        "Low": 24,
         "High": 1
       },
       "byStatus": {
-        "Pending": 12,
+        "Pending": 13,
         "Done": 12
       }
     },
