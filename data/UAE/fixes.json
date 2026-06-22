@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-ADE686A3",
+        "mp": "UAE",
+        "date": "2026-06-22",
+        "type": "Slack",
+        "name": "Italian Seasoning",
+        "issue": "Protein: 0.08000",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/ingredients/a6f2e6ec-6fab-4ce8-bf68-e186e40ea1f3",
+        "reportedBy": "Sarah Juma Al-Binkhalil",
+        "done": false,
+        "slackTs": "1782129199.338199",
+        "photoUrl": "",
+        "updatedAt": "2026-06-22T11:53:22.359Z",
+        "row": 25
+      },
+      {
         "id": "FIX-B55FCE1F",
         "mp": "UAE",
         "date": "2026-06-22",
@@ -432,21 +450,21 @@
       }
     ],
     "totals": {
-      "total": 26,
+      "total": 27,
       "done": 12,
-      "pending": 14,
+      "pending": 15,
       "inProgress": 0,
-      "donePct": 46,
+      "donePct": 44,
       "byType": {
-        "Slack": 25,
+        "Slack": 26,
         "Recipe": 1
       },
       "byPriority": {
-        "Low": 25,
+        "Low": 26,
         "High": 1
       },
       "byStatus": {
-        "Pending": 14,
+        "Pending": 15,
         "Done": 12
       }
     },
