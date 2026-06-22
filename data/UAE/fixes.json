@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-F87B56BC",
+        "mp": "UAE",
+        "date": "2026-06-22",
+        "type": "Slack",
+        "name": "Black Olives",
+        "issue": "Change Only",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/ingredients/c6da0e75-95d6-40e5-bd7b-9df282837293",
+        "reportedBy": "Shooq",
+        "done": false,
+        "slackTs": "1782122659.589429",
+        "photoUrl": "",
+        "updatedAt": "2026-06-22T10:04:22.425Z",
+        "row": 19
+      },
+      {
         "id": "FIX-2B536F16",
         "mp": "UAE",
         "date": "2026-06-22",
@@ -324,21 +342,21 @@
       }
     ],
     "totals": {
-      "total": 20,
+      "total": 21,
       "done": 12,
-      "pending": 8,
+      "pending": 9,
       "inProgress": 0,
-      "donePct": 60,
+      "donePct": 57,
       "byType": {
-        "Slack": 19,
+        "Slack": 20,
         "Recipe": 1
       },
       "byPriority": {
-        "Low": 19,
+        "Low": 20,
         "High": 1
       },
       "byStatus": {
-        "Pending": 8,
+        "Pending": 9,
         "Done": 12
       }
     },
