@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-AF12B34F",
+        "mp": "UAE",
+        "date": "2026-06-23",
+        "type": "Slack",
+        "name": "Tomato Mojito Sauce",
+        "issue": "Please change the CRF to 1.6",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/food-components/4eca8b71-60ad-4e10-9c63-753324d854fa",
+        "reportedBy": "Ahmed Mohamed",
+        "done": false,
+        "slackTs": "1782216237.186949",
+        "photoUrl": "",
+        "updatedAt": "2026-06-23T12:03:59.435Z",
+        "row": 34
+      },
+      {
         "id": "FIX-9D5BD63F",
         "mp": "UAE",
         "date": "2026-06-22",
@@ -594,21 +612,21 @@
       }
     ],
     "totals": {
-      "total": 35,
+      "total": 36,
       "done": 21,
-      "pending": 14,
+      "pending": 15,
       "inProgress": 0,
-      "donePct": 60,
+      "donePct": 58,
       "byType": {
-        "Slack": 34,
+        "Slack": 35,
         "Recipe": 1
       },
       "byPriority": {
-        "Low": 34,
+        "Low": 35,
         "High": 1
       },
       "byStatus": {
-        "Pending": 14,
+        "Pending": 15,
         "Done": 21
       }
     },
