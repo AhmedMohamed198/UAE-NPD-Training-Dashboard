@@ -44,15 +44,15 @@
         "type": "Slack",
         "name": "Almond Flour",
         "issue": "Protein:  0.26200",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "Link: https://dashboard.calo.app/ingredients/e8c59ea6-80d4-4541-baec-4ebb40f40198",
         "reportedBy": "Sarah Juma Al-Binkhalil",
-        "done": false,
+        "done": true,
         "slackTs": "1782132477.593189",
         "photoUrl": "",
-        "updatedAt": "2026-06-22T12:48:00.590Z",
+        "updatedAt": "2026-06-23",
         "row": 31
       },
       {
@@ -595,10 +595,10 @@
     ],
     "totals": {
       "total": 35,
-      "done": 20,
-      "pending": 15,
+      "done": 21,
+      "pending": 14,
       "inProgress": 0,
-      "donePct": 57,
+      "donePct": 60,
       "byType": {
         "Slack": 34,
         "Recipe": 1
@@ -608,8 +608,8 @@
         "High": 1
       },
       "byStatus": {
-        "Pending": 15,
-        "Done": 20
+        "Pending": 14,
+        "Done": 21
       }
     },
     "filters": {
