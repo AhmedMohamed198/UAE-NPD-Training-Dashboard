@@ -152,15 +152,15 @@
         "type": "Slack",
         "name": "Italian Seasoning",
         "issue": "Protein: 0.08000",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "Link: https://dashboard.calo.app/ingredients/a6f2e6ec-6fab-4ce8-bf68-e186e40ea1f3",
         "reportedBy": "Sarah Juma Al-Binkhalil",
-        "done": false,
+        "done": true,
         "slackTs": "1782129199.338199",
         "photoUrl": "",
-        "updatedAt": "2026-06-22T11:53:22.359Z",
+        "updatedAt": "2026-06-23",
         "row": 25
       },
       {
@@ -595,10 +595,10 @@
     ],
     "totals": {
       "total": 35,
-      "done": 17,
-      "pending": 18,
+      "done": 18,
+      "pending": 17,
       "inProgress": 0,
-      "donePct": 49,
+      "donePct": 51,
       "byType": {
         "Slack": 34,
         "Recipe": 1
@@ -608,8 +608,8 @@
         "High": 1
       },
       "byStatus": {
-        "Pending": 18,
-        "Done": 17
+        "Pending": 17,
+        "Done": 18
       }
     },
     "filters": {
