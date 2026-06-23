@@ -116,15 +116,15 @@
         "type": "Slack",
         "name": "Orzo Pasta",
         "issue": "Change only",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "Link: https://dashboard.calo.app/ingredients/a5bd8835-7d11-4980-aff7-c0794dd62fbe",
         "reportedBy": "Shooq",
-        "done": false,
+        "done": true,
         "slackTs": "1782130065.093529",
         "photoUrl": "",
-        "updatedAt": "2026-06-22T12:07:47.597Z",
+        "updatedAt": "2026-06-23",
         "row": 27
       },
       {
@@ -595,10 +595,10 @@
     ],
     "totals": {
       "total": 35,
-      "done": 18,
-      "pending": 17,
+      "done": 19,
+      "pending": 16,
       "inProgress": 0,
-      "donePct": 51,
+      "donePct": 54,
       "byType": {
         "Slack": 34,
         "Recipe": 1
@@ -608,8 +608,8 @@
         "High": 1
       },
       "byStatus": {
-        "Pending": 17,
-        "Done": 18
+        "Pending": 16,
+        "Done": 19
       }
     },
     "filters": {
