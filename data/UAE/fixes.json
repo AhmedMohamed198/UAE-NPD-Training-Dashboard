@@ -260,15 +260,15 @@
         "type": "Slack",
         "name": "Black Olives",
         "issue": "Change Only",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "Link: https://dashboard.calo.app/ingredients/c6da0e75-95d6-40e5-bd7b-9df282837293",
         "reportedBy": "Shooq",
-        "done": false,
+        "done": true,
         "slackTs": "1782122659.589429",
         "photoUrl": "",
-        "updatedAt": "2026-06-22T10:04:22.425Z",
+        "updatedAt": "2026-06-23",
         "row": 19
       },
       {
@@ -595,10 +595,10 @@
     ],
     "totals": {
       "total": 35,
-      "done": 15,
-      "pending": 20,
+      "done": 16,
+      "pending": 19,
       "inProgress": 0,
-      "donePct": 43,
+      "donePct": 46,
       "byType": {
         "Slack": 34,
         "Recipe": 1
@@ -608,8 +608,8 @@
         "High": 1
       },
       "byStatus": {
-        "Pending": 20,
-        "Done": 15
+        "Pending": 19,
+        "Done": 16
       }
     },
     "filters": {
