@@ -350,15 +350,15 @@
         "type": "Slack",
         "name": "Poached Pulled Chicken",
         "issue": "Please sync the component from BH dashboard to UAE dashboard",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "Link: https://dashboard.calo.app/food-components/d1c57e3d-2767-4a64-9882-6773caa866db",
         "reportedBy": "Ahmed Mohamed",
-        "done": false,
+        "done": true,
         "slackTs": "1782051522.101089",
         "photoUrl": "",
-        "updatedAt": "2026-06-21T14:18:44.615Z",
+        "updatedAt": "2026-06-23",
         "row": 14
       },
       {
@@ -595,10 +595,10 @@
     ],
     "totals": {
       "total": 35,
-      "done": 12,
-      "pending": 23,
+      "done": 13,
+      "pending": 22,
       "inProgress": 0,
-      "donePct": 34,
+      "donePct": 37,
       "byType": {
         "Slack": 34,
         "Recipe": 1
@@ -608,8 +608,8 @@
         "High": 1
       },
       "byStatus": {
-        "Pending": 23,
-        "Done": 12
+        "Pending": 22,
+        "Done": 13
       }
     },
     "filters": {
