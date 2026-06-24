@@ -26,15 +26,15 @@
         "type": "Slack",
         "name": "Hummus",
         "issue": "Please reduce the lemon salt to 19 gram",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "Link: https://dashboard.calo.app/food-components/94786369-fd89-4985-8ebe-ff81344499b7",
         "reportedBy": "Ahmed Mohamed",
-        "done": false,
+        "done": true,
         "slackTs": "1782305464.803759",
         "photoUrl": "",
-        "updatedAt": "2026-06-24T12:51:06.355Z",
+        "updatedAt": "2026-06-24",
         "row": 52
       },
       {
@@ -954,10 +954,10 @@
     ],
     "totals": {
       "total": 55,
-      "done": 29,
-      "pending": 25,
+      "done": 30,
+      "pending": 24,
       "inProgress": 0,
-      "donePct": 53,
+      "donePct": 55,
       "byType": {
         "Slack": 53,
         "Recipe": 2
@@ -967,8 +967,8 @@
         "High": 2
       },
       "byStatus": {
-        "Pending": 26,
-        "Done": 29
+        "Pending": 25,
+        "Done": 30
       }
     },
     "filters": {
