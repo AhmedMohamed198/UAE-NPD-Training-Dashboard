@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-BE734E97",
+        "mp": "UAE",
+        "date": "2026-06-24",
+        "type": "Slack",
+        "name": "Cornflour",
+        "issue": "All 0 except for Carbohydrates 0.8",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/ingredients/c19c0f7d-c823-405d-ac5e-e1cccec96d2a",
+        "reportedBy": "Shooq",
+        "done": false,
+        "slackTs": "1782302089.531019",
+        "photoUrl": "",
+        "updatedAt": "2026-06-24T11:54:51.024Z",
+        "row": 46
+      },
+      {
         "id": "FIX-A2340965",
         "mp": "UAE",
         "date": "2026-06-24",
@@ -809,21 +827,21 @@
       }
     ],
     "totals": {
-      "total": 47,
+      "total": 48,
       "done": 26,
-      "pending": 20,
+      "pending": 21,
       "inProgress": 0,
-      "donePct": 55,
+      "donePct": 54,
       "byType": {
-        "Slack": 45,
+        "Slack": 46,
         "Recipe": 2
       },
       "byPriority": {
-        "Low": 45,
+        "Low": 46,
         "High": 2
       },
       "byStatus": {
-        "Pending": 21,
+        "Pending": 22,
         "Done": 26
       }
     },
