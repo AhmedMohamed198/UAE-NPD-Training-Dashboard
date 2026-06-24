@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-6D353748",
+        "mp": "UAE",
+        "date": "2026-06-24",
+        "type": "Slack",
+        "name": "Coconut Sugar",
+        "issue": "Protein: 0.00",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/ingredients/3425c9a7-4bc2-47a7-9863-9e64f73a4892",
+        "reportedBy": "Sarah Juma Al-Binkhalil",
+        "done": false,
+        "slackTs": "1782306120.876999",
+        "photoUrl": "",
+        "updatedAt": "2026-06-24T13:02:02.876Z",
+        "row": 54
+      },
+      {
         "id": "FIX-94E1EB50",
         "mp": "UAE",
         "date": "2026-06-24",
@@ -953,21 +971,21 @@
       }
     ],
     "totals": {
-      "total": 55,
+      "total": 56,
       "done": 30,
-      "pending": 24,
+      "pending": 25,
       "inProgress": 0,
-      "donePct": 55,
+      "donePct": 54,
       "byType": {
-        "Slack": 53,
+        "Slack": 54,
         "Recipe": 2
       },
       "byPriority": {
-        "Low": 53,
+        "Low": 54,
         "High": 2
       },
       "byStatus": {
-        "Pending": 25,
+        "Pending": 26,
         "Done": 30
       }
     },
