@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-DE28025E",
+        "mp": "UAE",
+        "date": "2026-06-24",
+        "type": "Slack",
+        "name": "Zaatar",
+        "issue": "Protein 0.1",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/ingredients/68de4743-a1a4-4811-ad7a-bafd9f28d39e",
+        "reportedBy": "Shooq",
+        "done": false,
+        "slackTs": "1782304832.071319",
+        "photoUrl": "",
+        "updatedAt": "2026-06-24T12:40:34.926Z",
+        "row": 50
+      },
+      {
         "id": "FIX-3F0A8511",
         "mp": "UAE",
         "date": "2026-06-24",
@@ -881,21 +899,21 @@
       }
     ],
     "totals": {
-      "total": 51,
+      "total": 52,
       "done": 29,
-      "pending": 21,
+      "pending": 22,
       "inProgress": 0,
-      "donePct": 57,
+      "donePct": 56,
       "byType": {
-        "Slack": 49,
+        "Slack": 50,
         "Recipe": 2
       },
       "byPriority": {
-        "Low": 49,
+        "Low": 50,
         "High": 2
       },
       "byStatus": {
-        "Pending": 22,
+        "Pending": 23,
         "Done": 29
       }
     },
