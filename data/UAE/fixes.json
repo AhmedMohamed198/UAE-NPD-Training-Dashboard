@@ -44,15 +44,15 @@
         "type": "Slack",
         "name": "Walnuts",
         "issue": "Protein:  0.16667",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "Link: https://dashboard.calo.app/ingredients/724a0531-e91d-4762-8cf5-90dbf6129668",
         "reportedBy": "Sarah Juma Al-Binkhalil",
-        "done": false,
+        "done": true,
         "slackTs": "1782133131.471699",
         "photoUrl": "",
-        "updatedAt": "2026-06-22T12:58:53.866Z",
+        "updatedAt": "2026-06-24",
         "row": 32
       },
       {
@@ -630,10 +630,10 @@
     ],
     "totals": {
       "total": 37,
-      "done": 22,
-      "pending": 14,
+      "done": 23,
+      "pending": 13,
       "inProgress": 0,
-      "donePct": 59,
+      "donePct": 62,
       "byType": {
         "Slack": 35,
         "Recipe": 2
@@ -643,8 +643,8 @@
         "High": 2
       },
       "byStatus": {
-        "Done": 22,
-        "Pending": 15
+        "Done": 23,
+        "Pending": 14
       }
     },
     "filters": {
