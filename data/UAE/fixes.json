@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-6D327483",
+        "mp": "UAE",
+        "date": "2026-06-24",
+        "type": "Slack",
+        "name": "Pickled Cucumber",
+        "issue": "Protein 0.00333",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/ingredients/056f95cb-eed7-4e62-8d9e-ad8940b5c4c9",
+        "reportedBy": "Shooq",
+        "done": false,
+        "slackTs": "1782295731.016019",
+        "photoUrl": "",
+        "updatedAt": "2026-06-24T10:08:54.306Z",
+        "row": 42
+      },
+      {
         "id": "FIX-323E1B8C",
         "mp": "UAE",
         "date": "2026-06-24",
@@ -737,21 +755,21 @@
       }
     ],
     "totals": {
-      "total": 43,
+      "total": 44,
       "done": 23,
-      "pending": 19,
+      "pending": 20,
       "inProgress": 0,
-      "donePct": 53,
+      "donePct": 52,
       "byType": {
-        "Slack": 41,
+        "Slack": 42,
         "Recipe": 2
       },
       "byPriority": {
-        "Low": 41,
+        "Low": 42,
         "High": 2
       },
       "byStatus": {
-        "Pending": 20,
+        "Pending": 21,
         "Done": 23
       }
     },
