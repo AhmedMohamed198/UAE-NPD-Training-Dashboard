@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-583629D9",
+        "mp": "UAE",
+        "date": "2026-06-24",
+        "type": "Slack",
+        "name": "Onion Powder",
+        "issue": "Protein: 0.2",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/ingredients/da4f613f-c026-4876-bf5a-8010a6148c78",
+        "reportedBy": "Sarah Juma Al-Binkhalil",
+        "done": false,
+        "slackTs": "1782284849.148849",
+        "photoUrl": "",
+        "updatedAt": "2026-06-24T07:07:31.370Z",
+        "row": 36
+      },
+      {
         "id": "FIX-AF12B34F",
         "mp": "UAE",
         "date": "2026-06-23",
@@ -629,22 +647,22 @@
       }
     ],
     "totals": {
-      "total": 37,
+      "total": 38,
       "done": 23,
-      "pending": 13,
+      "pending": 14,
       "inProgress": 0,
-      "donePct": 62,
+      "donePct": 61,
       "byType": {
-        "Slack": 35,
+        "Slack": 36,
         "Recipe": 2
       },
       "byPriority": {
-        "Low": 35,
+        "Low": 36,
         "High": 2
       },
       "byStatus": {
-        "Done": 23,
-        "Pending": 14
+        "Pending": 15,
+        "Done": 23
       }
     },
     "filters": {
