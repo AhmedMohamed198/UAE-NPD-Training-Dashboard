@@ -62,15 +62,15 @@
         "type": "Slack",
         "name": "Brown Rice",
         "issue": "Protein: 0.088",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "Link: https://dashboard.calo.app/ingredients/3e69354b-1047-4f0d-b098-e285d5c3f46d",
         "reportedBy": "Sarah Juma Al-Binkhalil",
-        "done": false,
+        "done": true,
         "slackTs": "1782293725.896219",
         "photoUrl": "",
-        "updatedAt": "2026-06-24T09:35:28.315Z",
+        "updatedAt": "2026-06-24",
         "row": 40
       },
       {
@@ -774,10 +774,10 @@
     ],
     "totals": {
       "total": 45,
-      "done": 25,
-      "pending": 19,
+      "done": 26,
+      "pending": 18,
       "inProgress": 0,
-      "donePct": 56,
+      "donePct": 58,
       "byType": {
         "Slack": 43,
         "Recipe": 2
@@ -787,8 +787,8 @@
         "High": 2
       },
       "byStatus": {
-        "Pending": 20,
-        "Done": 25
+        "Pending": 19,
+        "Done": 26
       }
     },
     "filters": {
