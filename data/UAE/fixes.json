@@ -44,15 +44,15 @@
         "type": "Slack",
         "name": "Black Beans",
         "issue": "Protein 0.041",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "Link: https://dashboard.calo.app/ingredients/0daf4f83-015c-4d17-b616-20ad53136b92",
         "reportedBy": "Shooq",
-        "done": false,
+        "done": true,
         "slackTs": "1782294080.611979",
         "photoUrl": "",
-        "updatedAt": "2026-06-24T09:41:21.846Z",
+        "updatedAt": "2026-06-24",
         "row": 41
       },
       {
@@ -774,10 +774,10 @@
     ],
     "totals": {
       "total": 45,
-      "done": 24,
-      "pending": 20,
+      "done": 25,
+      "pending": 19,
       "inProgress": 0,
-      "donePct": 53,
+      "donePct": 56,
       "byType": {
         "Slack": 43,
         "Recipe": 2
@@ -787,8 +787,8 @@
         "High": 2
       },
       "byStatus": {
-        "Pending": 21,
-        "Done": 24
+        "Pending": 20,
+        "Done": 25
       }
     },
     "filters": {
