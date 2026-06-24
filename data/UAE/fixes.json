@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-E9F27C1F",
+        "mp": "UAE",
+        "date": "2026-06-24",
+        "type": "Slack",
+        "name": "Oats",
+        "issue": "Protein 0.12",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/ingredients/c38cdd37-81a5-4da8-832f-78a754e0b181",
+        "reportedBy": "Shooq",
+        "done": false,
+        "slackTs": "1782305358.941959",
+        "photoUrl": "",
+        "updatedAt": "2026-06-24T12:49:21.145Z",
+        "row": 51
+      },
+      {
         "id": "FIX-DE28025E",
         "mp": "UAE",
         "date": "2026-06-24",
@@ -899,21 +917,21 @@
       }
     ],
     "totals": {
-      "total": 52,
+      "total": 53,
       "done": 29,
-      "pending": 22,
+      "pending": 23,
       "inProgress": 0,
-      "donePct": 56,
+      "donePct": 55,
       "byType": {
-        "Slack": 50,
+        "Slack": 51,
         "Recipe": 2
       },
       "byPriority": {
-        "Low": 50,
+        "Low": 51,
         "High": 2
       },
       "byStatus": {
-        "Pending": 23,
+        "Pending": 24,
         "Done": 29
       }
     },
