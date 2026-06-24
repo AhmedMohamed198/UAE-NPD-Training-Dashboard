@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-6C32624E",
+        "mp": "UAE",
+        "date": "2026-06-24",
+        "type": "Slack",
+        "name": "Macaroni",
+        "issue": "Protein: 0.13",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/ingredients/9a62b7df-d04f-4f9d-9d27-2b408dc348fe",
+        "reportedBy": "Sarah Juma Al-Binkhalil",
+        "done": false,
+        "slackTs": "1782301628.030439",
+        "photoUrl": "",
+        "updatedAt": "2026-06-24T11:47:10.801Z",
+        "row": 44
+      },
+      {
         "id": "FIX-16966014",
         "mp": "UAE",
         "date": "2026-06-24",
@@ -773,21 +791,21 @@
       }
     ],
     "totals": {
-      "total": 45,
+      "total": 46,
       "done": 26,
-      "pending": 18,
+      "pending": 19,
       "inProgress": 0,
-      "donePct": 58,
+      "donePct": 57,
       "byType": {
-        "Slack": 43,
+        "Slack": 44,
         "Recipe": 2
       },
       "byPriority": {
-        "Low": 43,
+        "Low": 44,
         "High": 2
       },
       "byStatus": {
-        "Pending": 19,
+        "Pending": 20,
         "Done": 26
       }
     },
