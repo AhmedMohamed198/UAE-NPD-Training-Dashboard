@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-ED3760C5",
+        "mp": "UAE",
+        "date": "2026-06-24",
+        "type": "Slack",
+        "name": "Jaggery Powder",
+        "issue": "Change only",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/ingredients/61e31bfa-9f0d-478a-952d-20045ad33413",
+        "reportedBy": "Shooq",
+        "done": false,
+        "slackTs": "1782285458.384559",
+        "photoUrl": "",
+        "updatedAt": "2026-06-24T07:17:40.053Z",
+        "row": 37
+      },
+      {
         "id": "FIX-583629D9",
         "mp": "UAE",
         "date": "2026-06-24",
@@ -647,21 +665,21 @@
       }
     ],
     "totals": {
-      "total": 38,
+      "total": 39,
       "done": 23,
-      "pending": 14,
+      "pending": 15,
       "inProgress": 0,
-      "donePct": 61,
+      "donePct": 59,
       "byType": {
-        "Slack": 36,
+        "Slack": 37,
         "Recipe": 2
       },
       "byPriority": {
-        "Low": 36,
+        "Low": 37,
         "High": 2
       },
       "byStatus": {
-        "Pending": 15,
+        "Pending": 16,
         "Done": 23
       }
     },
