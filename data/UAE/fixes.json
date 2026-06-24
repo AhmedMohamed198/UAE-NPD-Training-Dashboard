@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-323E1B8C",
+        "mp": "UAE",
+        "date": "2026-06-24",
+        "type": "Slack",
+        "name": "Black Beans",
+        "issue": "Protein 0.041",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/ingredients/0daf4f83-015c-4d17-b616-20ad53136b92",
+        "reportedBy": "Shooq",
+        "done": false,
+        "slackTs": "1782294080.611979",
+        "photoUrl": "",
+        "updatedAt": "2026-06-24T09:41:21.846Z",
+        "row": 41
+      },
+      {
         "id": "FIX-D3E64BF3",
         "mp": "UAE",
         "date": "2026-06-24",
@@ -719,21 +737,21 @@
       }
     ],
     "totals": {
-      "total": 42,
+      "total": 43,
       "done": 23,
-      "pending": 18,
+      "pending": 19,
       "inProgress": 0,
-      "donePct": 55,
+      "donePct": 53,
       "byType": {
-        "Slack": 40,
+        "Slack": 41,
         "Recipe": 2
       },
       "byPriority": {
-        "Low": 40,
+        "Low": 41,
         "High": 2
       },
       "byStatus": {
-        "Pending": 19,
+        "Pending": 20,
         "Done": 23
       }
     },
