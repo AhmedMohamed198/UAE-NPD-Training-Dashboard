@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-94E1EB50",
+        "mp": "UAE",
+        "date": "2026-06-24",
+        "type": "Slack",
+        "name": "Blueberry",
+        "issue": "Protein 0.006",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/ingredients/a0659e2d-3aba-457b-8284-725250e3e9e5",
+        "reportedBy": "Shooq",
+        "done": false,
+        "slackTs": "1782305581.825629",
+        "photoUrl": "",
+        "updatedAt": "2026-06-24T12:53:03.121Z",
+        "row": 53
+      },
+      {
         "id": "FIX-A6297283",
         "mp": "UAE",
         "date": "2026-06-24",
@@ -935,21 +953,21 @@
       }
     ],
     "totals": {
-      "total": 54,
+      "total": 55,
       "done": 29,
-      "pending": 24,
+      "pending": 25,
       "inProgress": 0,
-      "donePct": 54,
+      "donePct": 53,
       "byType": {
-        "Slack": 52,
+        "Slack": 53,
         "Recipe": 2
       },
       "byPriority": {
-        "Low": 52,
+        "Low": 53,
         "High": 2
       },
       "byStatus": {
-        "Pending": 25,
+        "Pending": 26,
         "Done": 29
       }
     },
