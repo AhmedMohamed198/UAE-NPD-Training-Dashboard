@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-3F0A8511",
+        "mp": "UAE",
+        "date": "2026-06-24",
+        "type": "Slack",
+        "name": "Shrimp",
+        "issue": "Protein 0.1589",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/ingredients/6106815b-1fdb-4041-ac3e-eff6a8b42962",
+        "reportedBy": "Shooq",
+        "done": false,
+        "slackTs": "1782304059.854309",
+        "photoUrl": "",
+        "updatedAt": "2026-06-24T12:27:42.088Z",
+        "row": 49
+      },
+      {
         "id": "FIX-6EEEC470",
         "mp": "UAE",
         "date": "2026-06-24",
@@ -863,21 +881,21 @@
       }
     ],
     "totals": {
-      "total": 50,
+      "total": 51,
       "done": 28,
-      "pending": 21,
+      "pending": 22,
       "inProgress": 0,
-      "donePct": 56,
+      "donePct": 55,
       "byType": {
-        "Slack": 48,
+        "Slack": 49,
         "Recipe": 2
       },
       "byPriority": {
-        "Low": 48,
+        "Low": 49,
         "High": 2
       },
       "byStatus": {
-        "Pending": 22,
+        "Pending": 23,
         "Done": 28
       }
     },
