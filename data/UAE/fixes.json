@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-0B29E4D6",
+        "mp": "UAE",
+        "date": "2026-06-24",
+        "type": "Slack",
+        "name": "Parmesan Cheese",
+        "issue": "Protein:  0.32",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/ingredients/96f5a6f6-0f89-439d-b714-4548f8143579",
+        "reportedBy": "Sarah Juma Al-Binkhalil",
+        "done": false,
+        "slackTs": "1782291476.312069",
+        "photoUrl": "",
+        "updatedAt": "2026-06-24T08:57:58.923Z",
+        "row": 38
+      },
+      {
         "id": "FIX-ED3760C5",
         "mp": "UAE",
         "date": "2026-06-24",
@@ -665,21 +683,21 @@
       }
     ],
     "totals": {
-      "total": 39,
+      "total": 40,
       "done": 23,
-      "pending": 15,
+      "pending": 16,
       "inProgress": 0,
-      "donePct": 59,
+      "donePct": 57,
       "byType": {
-        "Slack": 37,
+        "Slack": 38,
         "Recipe": 2
       },
       "byPriority": {
-        "Low": 37,
+        "Low": 38,
         "High": 2
       },
       "byStatus": {
-        "Pending": 16,
+        "Pending": 17,
         "Done": 23
       }
     },
