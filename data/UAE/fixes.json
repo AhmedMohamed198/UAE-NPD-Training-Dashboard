@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-A2340965",
+        "mp": "UAE",
+        "date": "2026-06-24",
+        "type": "Slack",
+        "name": "Apple Cider Vinegar",
+        "issue": "All 0 except for protein 0.00667",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/ingredients/eebd9e72-432d-4c40-a70f-6a4118be68e6",
+        "reportedBy": "Shooq",
+        "done": false,
+        "slackTs": "1782301863.638309",
+        "photoUrl": "",
+        "updatedAt": "2026-06-24T11:51:05.509Z",
+        "row": 45
+      },
+      {
         "id": "FIX-6C32624E",
         "mp": "UAE",
         "date": "2026-06-24",
@@ -791,21 +809,21 @@
       }
     ],
     "totals": {
-      "total": 46,
+      "total": 47,
       "done": 26,
-      "pending": 19,
+      "pending": 20,
       "inProgress": 0,
-      "donePct": 57,
+      "donePct": 55,
       "byType": {
-        "Slack": 44,
+        "Slack": 45,
         "Recipe": 2
       },
       "byPriority": {
-        "Low": 44,
+        "Low": 45,
         "High": 2
       },
       "byStatus": {
-        "Pending": 20,
+        "Pending": 21,
         "Done": 26
       }
     },
