@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-FEE8DCF3",
+        "mp": "UAE",
+        "date": "2026-06-24",
+        "type": "Slack",
+        "name": "Date",
+        "issue": "Protein: 0.046",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/ingredients/e06bb742-29d9-42a1-be81-84fa879b5a13",
+        "reportedBy": "Sarah Juma Al-Binkhalil",
+        "done": false,
+        "slackTs": "1782302615.630409",
+        "photoUrl": "",
+        "updatedAt": "2026-06-24T12:03:38.012Z",
+        "row": 47
+      },
+      {
         "id": "FIX-BE734E97",
         "mp": "UAE",
         "date": "2026-06-24",
@@ -827,21 +845,21 @@
       }
     ],
     "totals": {
-      "total": 48,
+      "total": 49,
       "done": 26,
-      "pending": 21,
+      "pending": 22,
       "inProgress": 0,
-      "donePct": 54,
+      "donePct": 53,
       "byType": {
-        "Slack": 46,
+        "Slack": 47,
         "Recipe": 2
       },
       "byPriority": {
-        "Low": 46,
+        "Low": 47,
         "High": 2
       },
       "byStatus": {
-        "Pending": 22,
+        "Pending": 23,
         "Done": 26
       }
     },
