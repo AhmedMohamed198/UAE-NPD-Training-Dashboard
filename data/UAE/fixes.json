@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-16966014",
+        "mp": "UAE",
+        "date": "2026-06-24",
+        "type": "Slack",
+        "name": "Spaghettini Noodles",
+        "issue": "Protein: 0.13",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/ingredients/7435097c-0049-40ea-abd5-88c28b11e756",
+        "reportedBy": "Sarah Juma Al-Binkhalil",
+        "done": false,
+        "slackTs": "1782296472.260829",
+        "photoUrl": "",
+        "updatedAt": "2026-06-24T10:21:14.274Z",
+        "row": 43
+      },
+      {
         "id": "FIX-6D327483",
         "mp": "UAE",
         "date": "2026-06-24",
@@ -755,21 +773,21 @@
       }
     ],
     "totals": {
-      "total": 44,
+      "total": 45,
       "done": 24,
-      "pending": 19,
+      "pending": 20,
       "inProgress": 0,
-      "donePct": 55,
+      "donePct": 53,
       "byType": {
-        "Slack": 42,
+        "Slack": 43,
         "Recipe": 2
       },
       "byPriority": {
-        "Low": 42,
+        "Low": 43,
         "High": 2
       },
       "byStatus": {
-        "Pending": 20,
+        "Pending": 21,
         "Done": 24
       }
     },
