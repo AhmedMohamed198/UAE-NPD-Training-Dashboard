@@ -62,15 +62,15 @@
         "type": "Slack",
         "name": "Cornflour",
         "issue": "All 0 except for Carbohydrates 0.8",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "Link: https://dashboard.calo.app/ingredients/c19c0f7d-c823-405d-ac5e-e1cccec96d2a",
         "reportedBy": "Shooq",
-        "done": false,
+        "done": true,
         "slackTs": "1782302089.531019",
         "photoUrl": "",
-        "updatedAt": "2026-06-24T11:54:51.024Z",
+        "updatedAt": "2026-06-24",
         "row": 46
       },
       {
@@ -882,10 +882,10 @@
     ],
     "totals": {
       "total": 51,
-      "done": 28,
-      "pending": 22,
+      "done": 29,
+      "pending": 21,
       "inProgress": 0,
-      "donePct": 55,
+      "donePct": 57,
       "byType": {
         "Slack": 49,
         "Recipe": 2
@@ -895,8 +895,8 @@
         "High": 2
       },
       "byStatus": {
-        "Pending": 23,
-        "Done": 28
+        "Pending": 22,
+        "Done": 29
       }
     },
     "filters": {
