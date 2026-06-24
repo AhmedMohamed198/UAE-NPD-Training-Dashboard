@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-6EEEC470",
+        "mp": "UAE",
+        "date": "2026-06-24",
+        "type": "Slack",
+        "name": "Couscous",
+        "issue": "Protein: 0.12",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/ingredients/6a9501a0-ac24-45b5-98da-b08a5878d0b4",
+        "reportedBy": "Sarah Juma Al-Binkhalil",
+        "done": false,
+        "slackTs": "1782303692.919369",
+        "photoUrl": "",
+        "updatedAt": "2026-06-24T12:21:34.818Z",
+        "row": 48
+      },
+      {
         "id": "FIX-FEE8DCF3",
         "mp": "UAE",
         "date": "2026-06-24",
@@ -845,22 +863,22 @@
       }
     ],
     "totals": {
-      "total": 49,
+      "total": 50,
       "done": 28,
-      "pending": 20,
+      "pending": 21,
       "inProgress": 0,
-      "donePct": 57,
+      "donePct": 56,
       "byType": {
-        "Slack": 47,
+        "Slack": 48,
         "Recipe": 2
       },
       "byPriority": {
-        "Low": 47,
+        "Low": 48,
         "High": 2
       },
       "byStatus": {
-        "Done": 28,
-        "Pending": 21
+        "Pending": 22,
+        "Done": 28
       }
     },
     "filters": {
