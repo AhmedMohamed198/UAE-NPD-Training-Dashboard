@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-BD1BEEC7",
+        "mp": "UAE",
+        "date": "2026-06-24",
+        "type": "Slack",
+        "name": "Cheddar Cheese",
+        "issue": "Carbs 0.001",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/ingredients/b613e60a-502f-4883-bc83-79e864031742",
+        "reportedBy": "Shooq",
+        "done": false,
+        "slackTs": "1782292778.075349",
+        "photoUrl": "",
+        "updatedAt": "2026-06-24T09:19:40.691Z",
+        "row": 39
+      },
+      {
         "id": "FIX-0B29E4D6",
         "mp": "UAE",
         "date": "2026-06-24",
@@ -683,21 +701,21 @@
       }
     ],
     "totals": {
-      "total": 40,
+      "total": 41,
       "done": 23,
-      "pending": 16,
+      "pending": 17,
       "inProgress": 0,
-      "donePct": 57,
+      "donePct": 56,
       "byType": {
-        "Slack": 38,
+        "Slack": 39,
         "Recipe": 2
       },
       "byPriority": {
-        "Low": 38,
+        "Low": 39,
         "High": 2
       },
       "byStatus": {
-        "Pending": 17,
+        "Pending": 18,
         "Done": 23
       }
     },
