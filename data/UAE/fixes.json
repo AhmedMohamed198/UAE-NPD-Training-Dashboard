@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-D3E64BF3",
+        "mp": "UAE",
+        "date": "2026-06-24",
+        "type": "Slack",
+        "name": "Brown Rice",
+        "issue": "Protein: 0.088",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/ingredients/3e69354b-1047-4f0d-b098-e285d5c3f46d",
+        "reportedBy": "Sarah Juma Al-Binkhalil",
+        "done": false,
+        "slackTs": "1782293725.896219",
+        "photoUrl": "",
+        "updatedAt": "2026-06-24T09:35:28.315Z",
+        "row": 40
+      },
+      {
         "id": "FIX-BD1BEEC7",
         "mp": "UAE",
         "date": "2026-06-24",
@@ -701,21 +719,21 @@
       }
     ],
     "totals": {
-      "total": 41,
+      "total": 42,
       "done": 23,
-      "pending": 17,
+      "pending": 18,
       "inProgress": 0,
-      "donePct": 56,
+      "donePct": 55,
       "byType": {
-        "Slack": 39,
+        "Slack": 40,
         "Recipe": 2
       },
       "byPriority": {
-        "Low": 39,
+        "Low": 40,
         "High": 2
       },
       "byStatus": {
-        "Pending": 18,
+        "Pending": 19,
         "Done": 23
       }
     },
