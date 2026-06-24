@@ -609,21 +609,38 @@
         "reportedBy": "Ahmed Mohamed (Slack)",
         "updatedAt": "2026-06-14T08:31:30.569Z",
         "photoUrl": ""
+      },
+      {
+        "row": 35,
+        "id": "FIX-KCGTYVII",
+        "mp": "UAE",
+        "date": "2026-06-24",
+        "photoUrl": "",
+        "photoEmbedded": false,
+        "status": "",
+        "updatedAt": "2026-06-24T03:44:48.300Z",
+        "name": "Pepper Baked Egg Whites",
+        "type": "Recipe",
+        "issue": "The grammage of Veg mix and Egg white after cooking is less than the expected grams of 62.5g. However, the grammage is coming 50-52g only after cook if we follow the recipe. \n We need to add 10g of Egg White & 2g of veg mix to get the correct weight after cooked.",
+        "priority": "High",
+        "assignedTo": "Ahmed Mohamed",
+        "notes": "Kindly please look into this recipe.",
+        "mentionedEmails": []
       }
     ],
     "totals": {
-      "total": 36,
+      "total": 37,
       "done": 21,
       "pending": 15,
       "inProgress": 0,
-      "donePct": 58,
+      "donePct": 57,
       "byType": {
         "Slack": 35,
-        "Recipe": 1
+        "Recipe": 2
       },
       "byPriority": {
         "Low": 35,
-        "High": 1
+        "High": 2
       },
       "byStatus": {
         "Pending": 15,
