@@ -8,15 +8,15 @@
         "type": "Slack",
         "name": "Date",
         "issue": "Protein: 0.046",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "Link: https://dashboard.calo.app/ingredients/e06bb742-29d9-42a1-be81-84fa879b5a13",
         "reportedBy": "Sarah Juma Al-Binkhalil",
-        "done": false,
+        "done": true,
         "slackTs": "1782302615.630409",
         "photoUrl": "",
-        "updatedAt": "2026-06-24T12:03:38.012Z",
+        "updatedAt": "2026-06-24",
         "row": 47
       },
       {
@@ -846,10 +846,10 @@
     ],
     "totals": {
       "total": 49,
-      "done": 26,
-      "pending": 22,
+      "done": 27,
+      "pending": 21,
       "inProgress": 0,
-      "donePct": 53,
+      "donePct": 55,
       "byType": {
         "Slack": 47,
         "Recipe": 2
@@ -859,8 +859,8 @@
         "High": 2
       },
       "byStatus": {
-        "Pending": 23,
-        "Done": 26
+        "Done": 27,
+        "Pending": 22
       }
     },
     "filters": {
