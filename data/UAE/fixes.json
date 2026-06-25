@@ -512,15 +512,15 @@
         "type": "Slack",
         "name": "Coconut Milk",
         "issue": "Change only",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "Link: https://dashboard.calo.app/ingredients/09199a57-796b-4555-8756-95d0b14d1c21",
         "reportedBy": "Shooq",
-        "done": false,
+        "done": true,
         "slackTs": "1782129448.319639",
         "photoUrl": "",
-        "updatedAt": "2026-06-22T11:57:29.880Z",
+        "updatedAt": "2026-06-25",
         "row": 26
       },
       {
@@ -990,10 +990,10 @@
     ],
     "totals": {
       "total": 57,
-      "done": 40,
-      "pending": 16,
+      "done": 41,
+      "pending": 15,
       "inProgress": 0,
-      "donePct": 70,
+      "donePct": 72,
       "byType": {
         "Slack": 55,
         "Recipe": 2
@@ -1003,8 +1003,8 @@
         "High": 2
       },
       "byStatus": {
-        "Done": 40,
-        "Pending": 17
+        "Done": 41,
+        "Pending": 16
       }
     },
     "filters": {
