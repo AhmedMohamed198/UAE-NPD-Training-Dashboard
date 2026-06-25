@@ -656,15 +656,15 @@
         "type": "Slack",
         "name": "Date syrup",
         "issue": "Protein: 0.0",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "Link: https://dashboard.calo.app/ingredients/ea3f9e64-a40b-492f-87a7-01720b488d4f",
         "reportedBy": "Sarah Juma Al-Binkhalil",
-        "done": false,
+        "done": true,
         "slackTs": "1782122088.772869",
         "photoUrl": "",
-        "updatedAt": "2026-06-22T09:54:50.580Z",
+        "updatedAt": "2026-06-25",
         "row": 18
       },
       {
@@ -990,10 +990,10 @@
     ],
     "totals": {
       "total": 57,
-      "done": 36,
-      "pending": 20,
+      "done": 37,
+      "pending": 19,
       "inProgress": 0,
-      "donePct": 63,
+      "donePct": 65,
       "byType": {
         "Slack": 55,
         "Recipe": 2
@@ -1003,8 +1003,8 @@
         "High": 2
       },
       "byStatus": {
-        "Done": 36,
-        "Pending": 21
+        "Done": 37,
+        "Pending": 20
       }
     },
     "filters": {
