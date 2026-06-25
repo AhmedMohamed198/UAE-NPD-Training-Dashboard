@@ -332,15 +332,15 @@
         "type": "Slack",
         "name": "Onion Powder",
         "issue": "Protein: 0.2",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "Link: https://dashboard.calo.app/ingredients/da4f613f-c026-4876-bf5a-8010a6148c78",
         "reportedBy": "Sarah Juma Al-Binkhalil",
-        "done": false,
+        "done": true,
         "slackTs": "1782284849.148849",
         "photoUrl": "",
-        "updatedAt": "2026-06-24T07:07:31.370Z",
+        "updatedAt": "2026-06-25",
         "row": 36
       },
       {
@@ -972,10 +972,10 @@
     ],
     "totals": {
       "total": 56,
-      "done": 33,
-      "pending": 22,
+      "done": 34,
+      "pending": 21,
       "inProgress": 0,
-      "donePct": 59,
+      "donePct": 61,
       "byType": {
         "Slack": 54,
         "Recipe": 2
@@ -985,8 +985,8 @@
         "High": 2
       },
       "byStatus": {
-        "Done": 33,
-        "Pending": 23
+        "Done": 34,
+        "Pending": 22
       }
     },
     "filters": {
