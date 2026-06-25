@@ -296,15 +296,15 @@
         "type": "Slack",
         "name": "Cheddar Cheese",
         "issue": "Carbs 0.001",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "Link: https://dashboard.calo.app/ingredients/b613e60a-502f-4883-bc83-79e864031742",
         "reportedBy": "Shooq",
-        "done": false,
+        "done": true,
         "slackTs": "1782292778.075349",
         "photoUrl": "",
-        "updatedAt": "2026-06-24T09:19:40.691Z",
+        "updatedAt": "2026-06-25",
         "row": 39
       },
       {
@@ -990,10 +990,10 @@
     ],
     "totals": {
       "total": 57,
-      "done": 46,
-      "pending": 10,
+      "done": 47,
+      "pending": 9,
       "inProgress": 0,
-      "donePct": 81,
+      "donePct": 82,
       "byType": {
         "Slack": 55,
         "Recipe": 2
@@ -1003,8 +1003,8 @@
         "High": 2
       },
       "byStatus": {
-        "Done": 46,
-        "Pending": 11
+        "Done": 47,
+        "Pending": 10
       }
     },
     "filters": {
