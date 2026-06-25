@@ -80,15 +80,15 @@
         "type": "Slack",
         "name": "Shawarma Chicken",
         "issue": "For Shawarma Chicken, the raw weight is 5602 g and the cooked weight is 3500 g. the CR7 factor should be updated to 1.60 .",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "Link: Shawarma Chicken",
         "reportedBy": "Chandan kumar",
-        "done": false,
+        "done": true,
         "slackTs": "1782024240.618049",
         "photoUrl": "",
-        "updatedAt": "2026-06-21T06:44:02.494Z",
+        "updatedAt": "2026-06-25",
         "row": 3
       },
       {
@@ -410,10 +410,10 @@
     ],
     "totals": {
       "total": 27,
-      "done": 23,
-      "pending": 4,
+      "done": 24,
+      "pending": 3,
       "inProgress": 0,
-      "donePct": 85,
+      "donePct": 89,
       "byType": {
         "Slack": 27
       },
@@ -421,8 +421,8 @@
         "Low": 27
       },
       "byStatus": {
-        "Done": 23,
-        "Pending": 4
+        "Done": 24,
+        "Pending": 3
       }
     },
     "filters": {
