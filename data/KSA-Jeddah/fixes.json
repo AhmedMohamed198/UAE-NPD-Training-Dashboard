@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-7D2FA5FD",
+        "mp": "KSA-Jeddah",
+        "date": "2026-06-25",
+        "type": "Slack",
+        "name": "Bahraini Chicken tikka",
+        "issue": "For Bahraini Chicken Tikka, the raw chicken weight is 27,677 g and after cooking the final cooked weight was 16,400 g. So CR7 is 1.687",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: Bahraini Chicken tikka",
+        "reportedBy": "Chandan kumar",
+        "done": false,
+        "slackTs": "1782389503.961609",
+        "photoUrl": "",
+        "updatedAt": "2026-06-25T12:11:47.046Z",
+        "row": 8
+      },
+      {
         "id": "FIX-B6C39C0C",
         "mp": "KSA-Jeddah",
         "date": "2026-06-21",
@@ -409,20 +427,20 @@
       }
     ],
     "totals": {
-      "total": 27,
+      "total": 28,
       "done": 25,
-      "pending": 2,
+      "pending": 3,
       "inProgress": 0,
-      "donePct": 93,
+      "donePct": 89,
       "byType": {
-        "Slack": 27
+        "Slack": 28
       },
       "byPriority": {
-        "Low": 27
+        "Low": 28
       },
       "byStatus": {
-        "Done": 25,
-        "Pending": 2
+        "Pending": 3,
+        "Done": 25
       }
     },
     "filters": {
