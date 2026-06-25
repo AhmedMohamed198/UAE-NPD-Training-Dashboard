@@ -386,15 +386,15 @@
         "type": "Slack",
         "name": "Cardamom",
         "issue": "Protein:  0.102",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "Link: https://dashboard.calo.app/ingredients/807612a1-7595-4185-9c0d-3674f25e11c3",
         "reportedBy": "Shooq",
-        "done": false,
+        "done": true,
         "slackTs": "1782134743.822739",
         "photoUrl": "",
-        "updatedAt": "2026-06-22T13:25:46.892Z",
+        "updatedAt": "2026-06-25",
         "row": 33
       },
       {
@@ -990,10 +990,10 @@
     ],
     "totals": {
       "total": 57,
-      "done": 44,
-      "pending": 12,
+      "done": 45,
+      "pending": 11,
       "inProgress": 0,
-      "donePct": 77,
+      "donePct": 79,
       "byType": {
         "Slack": 55,
         "Recipe": 2
@@ -1003,8 +1003,8 @@
         "High": 2
       },
       "byStatus": {
-        "Done": 44,
-        "Pending": 13
+        "Done": 45,
+        "Pending": 12
       }
     },
     "filters": {
