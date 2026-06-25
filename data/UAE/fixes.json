@@ -242,15 +242,15 @@
         "type": "Slack",
         "name": "Pickled Cucumber",
         "issue": "Protein 0.00333",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "Link: https://dashboard.calo.app/ingredients/056f95cb-eed7-4e62-8d9e-ad8940b5c4c9",
         "reportedBy": "Shooq",
-        "done": false,
+        "done": true,
         "slackTs": "1782295731.016019",
         "photoUrl": "",
-        "updatedAt": "2026-06-24T10:08:54.306Z",
+        "updatedAt": "2026-06-25",
         "row": 42
       },
       {
@@ -990,10 +990,10 @@
     ],
     "totals": {
       "total": 57,
-      "done": 47,
-      "pending": 9,
+      "done": 48,
+      "pending": 8,
       "inProgress": 0,
-      "donePct": 82,
+      "donePct": 84,
       "byType": {
         "Slack": 55,
         "Recipe": 2
@@ -1003,8 +1003,8 @@
         "High": 2
       },
       "byStatus": {
-        "Done": 47,
-        "Pending": 10
+        "Done": 48,
+        "Pending": 9
       }
     },
     "filters": {
