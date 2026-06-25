@@ -440,15 +440,15 @@
         "type": "Slack",
         "name": "Maple Syrup",
         "issue": "Protein:  0.00",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "Link: https://dashboard.calo.app/ingredients/cc083f21-470e-4ce7-b0d9-e07fced8a464",
         "reportedBy": "Sarah Juma Al-Binkhalil",
-        "done": false,
+        "done": true,
         "slackTs": "1782131264.493739",
         "photoUrl": "",
-        "updatedAt": "2026-06-22T12:27:46.788Z",
+        "updatedAt": "2026-06-25",
         "row": 30
       },
       {
@@ -990,10 +990,10 @@
     ],
     "totals": {
       "total": 57,
-      "done": 42,
-      "pending": 14,
+      "done": 43,
+      "pending": 13,
       "inProgress": 0,
-      "donePct": 74,
+      "donePct": 75,
       "byType": {
         "Slack": 55,
         "Recipe": 2
@@ -1003,8 +1003,8 @@
         "High": 2
       },
       "byStatus": {
-        "Done": 42,
-        "Pending": 15
+        "Done": 43,
+        "Pending": 14
       }
     },
     "filters": {
