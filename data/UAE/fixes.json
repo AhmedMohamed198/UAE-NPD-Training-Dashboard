@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-4D5DB780",
+        "mp": "UAE",
+        "date": "2026-06-25",
+        "type": "Slack",
+        "name": "Poached Pulled Chicken",
+        "issue": "Garlic mentioned in the recipe method, But its not listed in the ingredients",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://slack.com/archives/C06SH4R4QTF/p1782415583789159",
+        "reportedBy": "Sam",
+        "done": false,
+        "slackTs": "1782415583.789159",
+        "photoUrl": "",
+        "updatedAt": "2026-06-25T19:26:26.057Z",
+        "row": 57
+      },
+      {
         "id": "FIX-14DD6C51",
         "mp": "UAE",
         "date": "2026-06-25",
@@ -1007,21 +1025,21 @@
       }
     ],
     "totals": {
-      "total": 58,
+      "total": 59,
       "done": 48,
-      "pending": 9,
+      "pending": 10,
       "inProgress": 0,
-      "donePct": 83,
+      "donePct": 81,
       "byType": {
-        "Slack": 56,
+        "Slack": 57,
         "Recipe": 2
       },
       "byPriority": {
-        "Low": 56,
+        "Low": 57,
         "High": 2
       },
       "byStatus": {
-        "Pending": 10,
+        "Pending": 11,
         "Done": 48
       }
     },
