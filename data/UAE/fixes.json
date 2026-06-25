@@ -602,15 +602,15 @@
         "type": "Slack",
         "name": "Hazelnut",
         "issue": "Protein: 0.13500",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "Link: https://dashboard.calo.app/ingredients/hazelnut       https://dashboard.calo.app/ingredients/1894ac7b-8afb-48d3-9a4f-3aac35843535",
         "reportedBy": "Sarah Juma Al-Binkhalil",
-        "done": false,
+        "done": true,
         "slackTs": "1782123482.923189",
         "photoUrl": "",
-        "updatedAt": "2026-06-22T10:18:04.857Z",
+        "updatedAt": "2026-06-25",
         "row": 21
       },
       {
@@ -990,10 +990,10 @@
     ],
     "totals": {
       "total": 57,
-      "done": 38,
-      "pending": 18,
+      "done": 39,
+      "pending": 17,
       "inProgress": 0,
-      "donePct": 67,
+      "donePct": 68,
       "byType": {
         "Slack": 55,
         "Recipe": 2
@@ -1003,8 +1003,8 @@
         "High": 2
       },
       "byStatus": {
-        "Done": 38,
-        "Pending": 19
+        "Done": 39,
+        "Pending": 18
       }
     },
     "filters": {
