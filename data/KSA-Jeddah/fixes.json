@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-D56D04B9",
+        "mp": "KSA-Jeddah",
+        "date": "2026-06-25",
+        "type": "Slack",
+        "name": "Bhuna chicken",
+        "issue": "For Bhuna Chicken Tikka, the raw weight is 61836 g and after cooking the final cooked weight is 35000 g. So CR7 is 1.766",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: Bhuna chicken",
+        "reportedBy": "Chandan kumar",
+        "done": false,
+        "slackTs": "1782389847.493299",
+        "photoUrl": "",
+        "updatedAt": "2026-06-25T12:17:30.092Z",
+        "row": 9
+      },
+      {
         "id": "FIX-7D2FA5FD",
         "mp": "KSA-Jeddah",
         "date": "2026-06-25",
@@ -427,20 +445,20 @@
       }
     ],
     "totals": {
-      "total": 28,
+      "total": 29,
       "done": 26,
-      "pending": 2,
+      "pending": 3,
       "inProgress": 0,
-      "donePct": 93,
+      "donePct": 90,
       "byType": {
-        "Slack": 28
+        "Slack": 29
       },
       "byPriority": {
-        "Low": 28
+        "Low": 29
       },
       "byStatus": {
-        "Done": 26,
-        "Pending": 2
+        "Pending": 3,
+        "Done": 26
       }
     },
     "filters": {
