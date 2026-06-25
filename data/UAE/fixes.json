@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-63E78469",
+        "mp": "UAE",
+        "date": "2026-06-25",
+        "type": "Slack",
+        "name": "Smoked Chicken Cubes",
+        "issue": "Smoked Chicken Cubes, change cube size from 1 inch (2.54 cm) to 0.8 inch (2 cm) in step 1. This is based on customer feedback, wastage control observation and cooking time execution.",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/food-components/464c5a31-d26d-4925-8b15-9be2c78b37cc",
+        "reportedBy": "Naief",
+        "done": false,
+        "slackTs": "1782374285.733209",
+        "photoUrl": "",
+        "updatedAt": "2026-06-25T07:58:09.056Z",
+        "row": 55
+      },
+      {
         "id": "FIX-6D353748",
         "mp": "UAE",
         "date": "2026-06-24",
@@ -971,22 +989,22 @@
       }
     ],
     "totals": {
-      "total": 56,
+      "total": 57,
       "done": 35,
-      "pending": 20,
+      "pending": 21,
       "inProgress": 0,
-      "donePct": 63,
+      "donePct": 61,
       "byType": {
-        "Slack": 54,
+        "Slack": 55,
         "Recipe": 2
       },
       "byPriority": {
-        "Low": 54,
+        "Low": 55,
         "High": 2
       },
       "byStatus": {
-        "Done": 35,
-        "Pending": 21
+        "Pending": 22,
+        "Done": 35
       }
     },
     "filters": {
