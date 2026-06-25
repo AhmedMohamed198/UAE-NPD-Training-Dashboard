@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-14DD6C51",
+        "mp": "UAE",
+        "date": "2026-06-25",
+        "type": "Slack",
+        "name": "Salmon and Quail Egg Tart",
+        "issue": "Please change Pico from 0.1 g to 15g as it migrated wrong from Saudi which is in cups (attached SA002 recipe for reference)",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/food-components/3485b472-ab34-40be-ae30-6517d2f1f293",
+        "reportedBy": "Gary Richardson",
+        "done": false,
+        "slackTs": "1782392894.863859",
+        "photoUrl": "",
+        "updatedAt": "2026-06-25T13:08:17.098Z",
+        "row": 56
+      },
+      {
         "id": "FIX-63E78469",
         "mp": "UAE",
         "date": "2026-06-25",
@@ -989,22 +1007,22 @@
       }
     ],
     "totals": {
-      "total": 57,
+      "total": 58,
       "done": 48,
-      "pending": 8,
+      "pending": 9,
       "inProgress": 0,
-      "donePct": 84,
+      "donePct": 83,
       "byType": {
-        "Slack": 55,
+        "Slack": 56,
         "Recipe": 2
       },
       "byPriority": {
-        "Low": 55,
+        "Low": 56,
         "High": 2
       },
       "byStatus": {
-        "Done": 48,
-        "Pending": 9
+        "Pending": 10,
+        "Done": 48
       }
     },
     "filters": {
