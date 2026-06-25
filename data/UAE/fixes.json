@@ -314,15 +314,15 @@
         "type": "Slack",
         "name": "Parmesan Cheese",
         "issue": "Protein:  0.32",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "Link: https://dashboard.calo.app/ingredients/96f5a6f6-0f89-439d-b714-4548f8143579",
         "reportedBy": "Sarah Juma Al-Binkhalil",
-        "done": false,
+        "done": true,
         "slackTs": "1782291476.312069",
         "photoUrl": "",
-        "updatedAt": "2026-06-24T08:57:58.923Z",
+        "updatedAt": "2026-06-25",
         "row": 38
       },
       {
@@ -990,10 +990,10 @@
     ],
     "totals": {
       "total": 57,
-      "done": 45,
-      "pending": 11,
+      "done": 46,
+      "pending": 10,
       "inProgress": 0,
-      "donePct": 79,
+      "donePct": 81,
       "byType": {
         "Slack": 55,
         "Recipe": 2
@@ -1003,8 +1003,8 @@
         "High": 2
       },
       "byStatus": {
-        "Done": 45,
-        "Pending": 12
+        "Done": 46,
+        "Pending": 11
       }
     },
     "filters": {
