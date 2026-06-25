@@ -26,15 +26,15 @@
         "type": "Slack",
         "name": "Blueberry",
         "issue": "Protein 0.006",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "Link: https://dashboard.calo.app/ingredients/a0659e2d-3aba-457b-8284-725250e3e9e5",
         "reportedBy": "Shooq",
-        "done": false,
+        "done": true,
         "slackTs": "1782305581.825629",
         "photoUrl": "",
-        "updatedAt": "2026-06-24T12:53:03.121Z",
+        "updatedAt": "2026-06-25",
         "row": 53
       },
       {
@@ -972,10 +972,10 @@
     ],
     "totals": {
       "total": 56,
-      "done": 31,
-      "pending": 24,
+      "done": 32,
+      "pending": 23,
       "inProgress": 0,
-      "donePct": 55,
+      "donePct": 57,
       "byType": {
         "Slack": 54,
         "Recipe": 2
@@ -985,8 +985,8 @@
         "High": 2
       },
       "byStatus": {
-        "Done": 31,
-        "Pending": 25
+        "Done": 32,
+        "Pending": 24
       }
     },
     "filters": {
