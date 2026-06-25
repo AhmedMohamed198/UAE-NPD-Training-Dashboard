@@ -116,15 +116,15 @@
         "type": "Slack",
         "name": "Couscous",
         "issue": "Protein: 0.12",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "Link: https://dashboard.calo.app/ingredients/6a9501a0-ac24-45b5-98da-b08a5878d0b4",
         "reportedBy": "Sarah Juma Al-Binkhalil",
-        "done": false,
+        "done": true,
         "slackTs": "1782303692.919369",
         "photoUrl": "",
-        "updatedAt": "2026-06-24T12:21:34.818Z",
+        "updatedAt": "2026-06-25",
         "row": 48
       },
       {
@@ -972,10 +972,10 @@
     ],
     "totals": {
       "total": 56,
-      "done": 32,
-      "pending": 23,
+      "done": 33,
+      "pending": 22,
       "inProgress": 0,
-      "donePct": 57,
+      "donePct": 59,
       "byType": {
         "Slack": 54,
         "Recipe": 2
@@ -985,8 +985,8 @@
         "High": 2
       },
       "byStatus": {
-        "Done": 32,
-        "Pending": 24
+        "Done": 33,
+        "Pending": 23
       }
     },
     "filters": {
