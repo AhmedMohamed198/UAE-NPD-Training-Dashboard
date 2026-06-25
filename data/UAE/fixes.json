@@ -620,15 +620,15 @@
         "type": "Slack",
         "name": "Stevia",
         "issue": "Change carbs to 1",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "Link: https://dashboard.calo.app/ingredients/990bdead-d530-4e54-86f5-db37f7c902ed",
         "reportedBy": "Shooq",
-        "done": false,
+        "done": true,
         "slackTs": "1782123272.855329",
         "photoUrl": "",
-        "updatedAt": "2026-06-22T10:14:35.109Z",
+        "updatedAt": "2026-06-25",
         "row": 20
       },
       {
@@ -990,10 +990,10 @@
     ],
     "totals": {
       "total": 57,
-      "done": 37,
-      "pending": 19,
+      "done": 38,
+      "pending": 18,
       "inProgress": 0,
-      "donePct": 65,
+      "donePct": 67,
       "byType": {
         "Slack": 55,
         "Recipe": 2
@@ -1003,8 +1003,8 @@
         "High": 2
       },
       "byStatus": {
-        "Done": 37,
-        "Pending": 20
+        "Done": 38,
+        "Pending": 19
       }
     },
     "filters": {
