@@ -728,15 +728,15 @@
         "type": "Slack",
         "name": "Oregano chicken",
         "issue": "Please change the CRF to 1.804",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "Link: https://dashboard.calo.app/food-components/12c37be8-fd71-4f18-82a5-32ce2b654a47",
         "reportedBy": "Ahmed Mohamed",
-        "done": false,
+        "done": true,
         "slackTs": "1781976712.069059",
         "photoUrl": "",
-        "updatedAt": "2026-06-20T17:31:54.732Z",
+        "updatedAt": "2026-06-25",
         "row": 13
       },
       {
@@ -972,10 +972,10 @@
     ],
     "totals": {
       "total": 56,
-      "done": 34,
-      "pending": 21,
+      "done": 35,
+      "pending": 20,
       "inProgress": 0,
-      "donePct": 61,
+      "donePct": 63,
       "byType": {
         "Slack": 54,
         "Recipe": 2
@@ -985,8 +985,8 @@
         "High": 2
       },
       "byStatus": {
-        "Done": 34,
-        "Pending": 22
+        "Done": 35,
+        "Pending": 21
       }
     },
     "filters": {
