@@ -8,15 +8,15 @@
         "type": "Slack",
         "name": "Coconut Sugar",
         "issue": "Protein: 0.00",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "Link: https://dashboard.calo.app/ingredients/3425c9a7-4bc2-47a7-9863-9e64f73a4892",
         "reportedBy": "Sarah Juma Al-Binkhalil",
-        "done": false,
+        "done": true,
         "slackTs": "1782306120.876999",
         "photoUrl": "",
-        "updatedAt": "2026-06-24T13:02:02.876Z",
+        "updatedAt": "2026-06-25",
         "row": 54
       },
       {
@@ -972,10 +972,10 @@
     ],
     "totals": {
       "total": 56,
-      "done": 30,
-      "pending": 25,
+      "done": 31,
+      "pending": 24,
       "inProgress": 0,
-      "donePct": 54,
+      "donePct": 55,
       "byType": {
         "Slack": 54,
         "Recipe": 2
@@ -985,8 +985,8 @@
         "High": 2
       },
       "byStatus": {
-        "Pending": 26,
-        "Done": 30
+        "Done": 31,
+        "Pending": 25
       }
     },
     "filters": {
