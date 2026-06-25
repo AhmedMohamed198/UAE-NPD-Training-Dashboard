@@ -458,15 +458,15 @@
         "type": "Slack",
         "name": "Sesame Oil",
         "issue": "Protein:  0",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "Link: https://dashboard.calo.app/ingredients/7d6b67f8-cc5d-448e-918e-cbf5733b6b7b",
         "reportedBy": "Sarah Juma Al-Binkhalil",
-        "done": false,
+        "done": true,
         "slackTs": "1782130786.254289",
         "photoUrl": "",
-        "updatedAt": "2026-06-22T12:19:49.625Z",
+        "updatedAt": "2026-06-25",
         "row": 29
       },
       {
@@ -990,10 +990,10 @@
     ],
     "totals": {
       "total": 57,
-      "done": 41,
-      "pending": 15,
+      "done": 42,
+      "pending": 14,
       "inProgress": 0,
-      "donePct": 72,
+      "donePct": 74,
       "byType": {
         "Slack": 55,
         "Recipe": 2
@@ -1003,8 +1003,8 @@
         "High": 2
       },
       "byStatus": {
-        "Done": 41,
-        "Pending": 16
+        "Done": 42,
+        "Pending": 15
       }
     },
     "filters": {
