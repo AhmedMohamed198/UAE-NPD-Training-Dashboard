@@ -116,15 +116,15 @@
         "type": "Slack",
         "name": "Ouzi Chicken",
         "issue": "For Ouzi Chicken, the raw weight is 5631 g and the cooked weight is 3400 g. the CR7 factor should be updated to 1.656",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "Link: Ouzi Chicken",
         "reportedBy": "Chandan kumar",
-        "done": false,
+        "done": true,
         "slackTs": "1782023890.135099",
         "photoUrl": "",
-        "updatedAt": "2026-06-21T06:38:13.070Z",
+        "updatedAt": "2026-06-25",
         "row": 1
       },
       {
@@ -410,10 +410,10 @@
     ],
     "totals": {
       "total": 27,
-      "done": 21,
-      "pending": 6,
+      "done": 22,
+      "pending": 5,
       "inProgress": 0,
-      "donePct": 78,
+      "donePct": 81,
       "byType": {
         "Slack": 27
       },
@@ -421,8 +421,8 @@
         "Low": 27
       },
       "byStatus": {
-        "Done": 21,
-        "Pending": 6
+        "Done": 22,
+        "Pending": 5
       }
     },
     "filters": {
