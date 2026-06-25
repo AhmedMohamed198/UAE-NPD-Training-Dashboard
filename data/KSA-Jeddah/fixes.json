@@ -44,15 +44,15 @@
         "type": "Slack",
         "name": "Turkish Chicken",
         "issue": "For Turkish Chicken, the raw weight is 3236 g and the cooked weight is 2050 g. the CR7 factor should be updated to 1.57",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "Link: Turkish Chicken",
         "reportedBy": "Chandan kumar",
-        "done": false,
+        "done": true,
         "slackTs": "1782024579.610119",
         "photoUrl": "",
-        "updatedAt": "2026-06-21T06:49:42.523Z",
+        "updatedAt": "2026-06-25",
         "row": 5
       },
       {
@@ -410,10 +410,10 @@
     ],
     "totals": {
       "total": 27,
-      "done": 22,
-      "pending": 5,
+      "done": 23,
+      "pending": 4,
       "inProgress": 0,
-      "donePct": 81,
+      "donePct": 85,
       "byType": {
         "Slack": 27
       },
@@ -421,8 +421,8 @@
         "Low": 27
       },
       "byStatus": {
-        "Done": 22,
-        "Pending": 5
+        "Done": 23,
+        "Pending": 4
       }
     },
     "filters": {
