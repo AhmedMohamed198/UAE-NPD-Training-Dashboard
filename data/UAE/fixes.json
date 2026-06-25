@@ -566,15 +566,15 @@
         "type": "Slack",
         "name": "Miso Paste",
         "issue": "Change  only",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "Link: https://dashboard.calo.app/ingredients/0b696e32-c2f0-416a-ad56-62e200ca4807",
         "reportedBy": "Shooq",
-        "done": false,
+        "done": true,
         "slackTs": "1782128570.802809",
         "photoUrl": "",
-        "updatedAt": "2026-06-22T11:42:53.390Z",
+        "updatedAt": "2026-06-25",
         "row": 23
       },
       {
@@ -990,10 +990,10 @@
     ],
     "totals": {
       "total": 57,
-      "done": 39,
-      "pending": 17,
+      "done": 40,
+      "pending": 16,
       "inProgress": 0,
-      "donePct": 68,
+      "donePct": 70,
       "byType": {
         "Slack": 55,
         "Recipe": 2
@@ -1003,8 +1003,8 @@
         "High": 2
       },
       "byStatus": {
-        "Done": 39,
-        "Pending": 18
+        "Done": 40,
+        "Pending": 17
       }
     },
     "filters": {
