@@ -332,15 +332,15 @@
         "type": "Slack",
         "name": "Jaggery Powder",
         "issue": "Change only",
-        "status": "Pending",
+        "status": "Done",
         "assignedTo": "",
         "priority": "Low",
         "notes": "Link: https://dashboard.calo.app/ingredients/61e31bfa-9f0d-478a-952d-20045ad33413",
         "reportedBy": "Shooq",
-        "done": false,
+        "done": true,
         "slackTs": "1782285458.384559",
         "photoUrl": "",
-        "updatedAt": "2026-06-24T07:17:40.053Z",
+        "updatedAt": "2026-06-25",
         "row": 37
       },
       {
@@ -990,10 +990,10 @@
     ],
     "totals": {
       "total": 57,
-      "done": 43,
-      "pending": 13,
+      "done": 44,
+      "pending": 12,
       "inProgress": 0,
-      "donePct": 75,
+      "donePct": 77,
       "byType": {
         "Slack": 55,
         "Recipe": 2
@@ -1003,8 +1003,8 @@
         "High": 2
       },
       "byStatus": {
-        "Done": 43,
-        "Pending": 14
+        "Done": 44,
+        "Pending": 13
       }
     },
     "filters": {
