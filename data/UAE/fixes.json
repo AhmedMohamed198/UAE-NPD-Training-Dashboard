@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-2A6E77FC",
+        "mp": "UAE",
+        "date": "2026-06-27",
+        "type": "Slack",
+        "name": "Aji Verde",
+        "issue": "Please change the CRF to 1.004",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/food-components/75d60660-7612-448a-9c3d-c218d7d7ed0d",
+        "reportedBy": "Ahmed Mohamed",
+        "done": false,
+        "slackTs": "1782581700.460739",
+        "photoUrl": "",
+        "updatedAt": "2026-06-27T17:35:03.044Z",
+        "row": 62
+      },
+      {
         "id": "FIX-88A9A558",
         "mp": "UAE",
         "date": "2026-06-27",
@@ -1097,21 +1115,21 @@
       }
     ],
     "totals": {
-      "total": 63,
+      "total": 64,
       "done": 48,
-      "pending": 14,
+      "pending": 15,
       "inProgress": 0,
-      "donePct": 76,
+      "donePct": 75,
       "byType": {
-        "Slack": 61,
+        "Slack": 62,
         "Recipe": 2
       },
       "byPriority": {
-        "Low": 61,
+        "Low": 62,
         "High": 2
       },
       "byStatus": {
-        "Pending": 15,
+        "Pending": 16,
         "Done": 48
       }
     },
