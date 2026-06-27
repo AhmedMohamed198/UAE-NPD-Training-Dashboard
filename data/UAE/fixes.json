@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-185FCC59",
+        "mp": "UAE",
+        "date": "2026-06-27",
+        "type": "Slack",
+        "name": "Phyllo With Meat",
+        "issue": "The cooking process for Meat mixture is missing, and as mentioned on recipe preparation methods the butter spray to be applied in between the phyllo layer and on the top as well, however, butter itself is missing from the Ingredients list.",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://slack.com/archives/C06SH4R4QTF/p1782563629462779",
+        "reportedBy": "Lokesh Tmg",
+        "done": false,
+        "slackTs": "1782563629.462779",
+        "photoUrl": "",
+        "updatedAt": "2026-06-27T12:33:50.798Z",
+        "row": 59
+      },
+      {
         "id": "FIX-60ADB23C",
         "mp": "UAE",
         "date": "2026-06-27",
@@ -1043,21 +1061,21 @@
       }
     ],
     "totals": {
-      "total": 60,
+      "total": 61,
       "done": 48,
-      "pending": 11,
+      "pending": 12,
       "inProgress": 0,
-      "donePct": 80,
+      "donePct": 79,
       "byType": {
-        "Slack": 58,
+        "Slack": 59,
         "Recipe": 2
       },
       "byPriority": {
-        "Low": 58,
+        "Low": 59,
         "High": 2
       },
       "byStatus": {
-        "Pending": 12,
+        "Pending": 13,
         "Done": 48
       }
     },
