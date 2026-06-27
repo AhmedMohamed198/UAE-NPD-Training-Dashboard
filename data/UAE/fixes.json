@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-88A9A558",
+        "mp": "UAE",
+        "date": "2026-06-27",
+        "type": "Slack",
+        "name": "Poached Pulled Chicken",
+        "issue": "Please remove the garlic from the method as its not mentioned in the ingredients",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/food-components/d1c57e3d-2767-4a64-9882-6773caa866db",
+        "reportedBy": "Ahmed Mohamed",
+        "done": false,
+        "slackTs": "1782581215.301979",
+        "photoUrl": "",
+        "updatedAt": "2026-06-27T17:26:58.337Z",
+        "row": 61
+      },
+      {
         "id": "FIX-9CBAD66D",
         "mp": "UAE",
         "date": "2026-06-27",
@@ -1079,21 +1097,21 @@
       }
     ],
     "totals": {
-      "total": 62,
+      "total": 63,
       "done": 48,
-      "pending": 13,
+      "pending": 14,
       "inProgress": 0,
-      "donePct": 77,
+      "donePct": 76,
       "byType": {
-        "Slack": 60,
+        "Slack": 61,
         "Recipe": 2
       },
       "byPriority": {
-        "Low": 60,
+        "Low": 61,
         "High": 2
       },
       "byStatus": {
-        "Pending": 14,
+        "Pending": 15,
         "Done": 48
       }
     },
