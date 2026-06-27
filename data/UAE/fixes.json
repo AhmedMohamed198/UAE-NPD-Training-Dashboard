@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-11E64793",
+        "mp": "UAE",
+        "date": "2026-06-27",
+        "type": "Slack",
+        "name": "Pepper Baked Egg Whites",
+        "issue": "Please change the cooked weight to 52 grams based on the CRF as the raw weight is 66 grams",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/food-components/c233441f-43ca-4e5e-ac89-c774dfaabc53",
+        "reportedBy": "Ahmed Mohamed",
+        "done": false,
+        "slackTs": "1782588903.334439",
+        "photoUrl": "",
+        "updatedAt": "2026-06-27T19:35:06.061Z",
+        "row": 63
+      },
+      {
         "id": "FIX-2A6E77FC",
         "mp": "UAE",
         "date": "2026-06-27",
@@ -1115,21 +1133,21 @@
       }
     ],
     "totals": {
-      "total": 64,
+      "total": 65,
       "done": 48,
-      "pending": 15,
+      "pending": 16,
       "inProgress": 0,
-      "donePct": 75,
+      "donePct": 74,
       "byType": {
-        "Slack": 62,
+        "Slack": 63,
         "Recipe": 2
       },
       "byPriority": {
-        "Low": 62,
+        "Low": 63,
         "High": 2
       },
       "byStatus": {
-        "Pending": 16,
+        "Pending": 17,
         "Done": 48
       }
     },
