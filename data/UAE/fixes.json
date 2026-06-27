@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-9CBAD66D",
+        "mp": "UAE",
+        "date": "2026-06-27",
+        "type": "Slack",
+        "name": "Aji Varde",
+        "issue": "Final yield is not matching  with recipe mention, additionally, we perceived slightly less saltiness  so we adjusted few salt which was 8gm per KG/Liter .",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://slack.com/archives/C06SH4R4QTF/p1782566453169129",
+        "reportedBy": "Lokesh Tmg",
+        "done": false,
+        "slackTs": "1782566453.169129",
+        "photoUrl": "",
+        "updatedAt": "2026-06-27T13:20:54.848Z",
+        "row": 60
+      },
+      {
         "id": "FIX-185FCC59",
         "mp": "UAE",
         "date": "2026-06-27",
@@ -1061,21 +1079,21 @@
       }
     ],
     "totals": {
-      "total": 61,
+      "total": 62,
       "done": 48,
-      "pending": 12,
+      "pending": 13,
       "inProgress": 0,
-      "donePct": 79,
+      "donePct": 77,
       "byType": {
-        "Slack": 59,
+        "Slack": 60,
         "Recipe": 2
       },
       "byPriority": {
-        "Low": 59,
+        "Low": 60,
         "High": 2
       },
       "byStatus": {
-        "Pending": 13,
+        "Pending": 14,
         "Done": 48
       }
     },
