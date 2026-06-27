@@ -2,6 +2,24 @@
   "fixes": {
     "items": [
       {
+        "id": "FIX-60ADB23C",
+        "mp": "UAE",
+        "date": "2026-06-27",
+        "type": "Slack",
+        "name": "Plain croissant",
+        "issue": "change the name to Croissant Dough Sheet , This is the actual product and how it is delivered. Calling it plain croissant is very confusing as it implies to a ready-made unbaked item",
+        "status": "Pending",
+        "assignedTo": "",
+        "priority": "Low",
+        "notes": "Link: https://dashboard.calo.app/ingredients/e9a3517a-11e9-4de8-a1e2-169fc99585f6",
+        "reportedBy": "Gary Richardson",
+        "done": false,
+        "slackTs": "1782555560.468649",
+        "photoUrl": "",
+        "updatedAt": "2026-06-27T10:19:23.609Z",
+        "row": 58
+      },
+      {
         "id": "FIX-4D5DB780",
         "mp": "UAE",
         "date": "2026-06-25",
@@ -1025,21 +1043,21 @@
       }
     ],
     "totals": {
-      "total": 59,
+      "total": 60,
       "done": 48,
-      "pending": 10,
+      "pending": 11,
       "inProgress": 0,
-      "donePct": 81,
+      "donePct": 80,
       "byType": {
-        "Slack": 57,
+        "Slack": 58,
         "Recipe": 2
       },
       "byPriority": {
-        "Low": 57,
+        "Low": 58,
         "High": 2
       },
       "byStatus": {
-        "Pending": 11,
+        "Pending": 12,
         "Done": 48
       }
     },
